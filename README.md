@@ -3,10 +3,7 @@
 ![1720035510514](https://github.com/user-attachments/assets/fd4ceda6-5377-41fe-b35c-d2f157179886)
 
 ## I have great skills in Django Framework.
-<!--
-**BrianBett125/BrianBett125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I am a product of alx/Holberton School and I code everyday. 🤣
 - 🌱 I’m currently learning svelte in place of reactjs.
@@ -15,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: brianbett756@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:  Did you know that the first computer programmer was a woman named Ada Lovelace? In 1843, she worked with Charles Babbage on his Analytical Engine and wrote what is considered the first algorithm intended to be processed by a machine—the Analytical Engine.
--->
+
+- 
 connect with me:
 https://www.linkedin.com/in/brian-bett-629a8b22b/   https://discord.com/channels/@me/1161935080227348531   https://twitter.com/Yow_Brah

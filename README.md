@@ -1,4 +1,4 @@
-## Hi there 👋 Hi dear! I am a Software Engineer with 3 years of experience in Back End development. I completed the 1-year Software Engineering Programme at ALX, while completing a rigorous, fast-paced, full-stack curriculum founded on project-based, peer learning. I leverage my programming skills to easily build optimized and SEO friendly web applications with NextJs and run on any cloud service provider including AWS.
+## Hi there! 👋 I am a Software Engineer with 3 years of experience in Back End development. I completed the 1-year Software Engineering Programme at ALX, while completing a rigorous, fast-paced, full-stack curriculum founded on project-based, peer learning. I leverage my programming skills to easily build optimized and SEO friendly web applications with NextJs and run on any cloud service provider including AWS.
 
 ![1720035510514](https://github.com/user-attachments/assets/fd4ceda6-5377-41fe-b35c-d2f157179886)
 

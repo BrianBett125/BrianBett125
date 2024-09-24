@@ -15,4 +15,5 @@
 
 
 connect with me:
-[Linkedin](https://www.linkedin.com/in/brian-bett-629a8b22b/)   [Discord](https://discord.com/channels/@me/1161935080227348531)       [X](https://twitter.com/Yow_Brah)
+[![linkedin](https://github.com/user-attachments/assets/09abfc3c-2f1b-4ea5-b607-a6e6b6b084b4)
+](https://www.linkedin.com/in/brian-bett-629a8b22b/)   [Discord](https://discord.com/channels/@me/1161935080227348531)       [X](https://twitter.com/Yow_Brah)

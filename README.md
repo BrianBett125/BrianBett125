@@ -2,7 +2,7 @@
 
 ![1720035510514](https://github.com/user-attachments/assets/fd4ceda6-5377-41fe-b35c-d2f157179886)
 
-## I have great skills in Django Framework.
+# I have great skills in Django Framework.
 
 
 - 🔭 I am a product of alx/Holberton School and I code everyday. 🤣
@@ -21,9 +21,4 @@
 ](https://discord.com/channels/@me/1161935080227348531)       [![twitter-x](https://github.com/user-attachments/assets/6c589fb0-c0c1-4c37-9d60-2fad09269b82)
 ](https://twitter.com/Yow_Brah)
 
-
-
-
-
-![GitHub](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/)
 

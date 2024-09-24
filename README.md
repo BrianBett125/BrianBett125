@@ -13,6 +13,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:  Did you know that the first computer programmer was a woman named Ada Lovelace? In 1843, she worked with Charles Babbage on his Analytical Engine and wrote what is considered the first algorithm intended to be processed by a machine—the Analytical Engine.
 
-- 
+
 connect with me:
-https://www.linkedin.com/in/brian-bett-629a8b22b/   https://discord.com/channels/@me/1161935080227348531   https://twitter.com/Yow_Brah
+[Linkedin](https://www.linkedin.com/in/brian-bett-629a8b22b/)   [Discord](https://discord.com/channels/@me/1161935080227348531)     [x](https://twitter.com/Yow_Brah)

@@ -16,4 +16,6 @@
 
 connect with me:
 [![linkedin](https://github.com/user-attachments/assets/09abfc3c-2f1b-4ea5-b607-a6e6b6b084b4)
-](https://www.linkedin.com/in/brian-bett-629a8b22b/)   [Discord](https://discord.com/channels/@me/1161935080227348531)       [X](https://twitter.com/Yow_Brah)
+](https://www.linkedin.com/in/brian-bett-629a8b22b/)   [![discord](https://github.com/user-attachments/assets/0e59fa91-69f0-4162-bfed-d0964806a244)
+](https://discord.com/channels/@me/1161935080227348531)       [![twitter-x](https://github.com/user-attachments/assets/6c589fb0-c0c1-4c37-9d60-2fad09269b82)
+](https://twitter.com/Yow_Brah)

@@ -1,48 +1,70 @@
-## Hi there! 👋 I'm Brian, a Software Engineer passionate about crafting efficient and user-friendly web applications.
-
-I bring 3 years of experience specializing in Back End development, honed through a rigorous, project-based, full-stack curriculum at ALX/Holberton School.  My training emphasized peer learning and a fast-paced environment, equipping me to tackle complex challenges.  I leverage my expertise to build optimized and SEO-friendly web applications using Next.js, deployable on any cloud provider, including AWS.
+<h1 align="center">
+  Hi there! 👋 I'm Brian, a Software Engineer passionate about building high-performance, user-centric web applications.
+</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fd4ceda6-5377-41fe-b35c-d2f157179886" alt="Your Photo/Avatar" width="200">  </p>
+  With 3 years of experience specializing in Back End development, I've honed my skills through a rigorous, project-based, full-stack curriculum at ALX/Holberton School. My training emphasized peer learning and a fast-paced environment, empowering me to tackle complex challenges and deliver impactful solutions. I leverage my expertise to craft optimized and SEO-friendly web applications using Next.js, seamlessly deployable on any cloud provider, including AWS.
+</p>
 
-## My Skills & Expertise
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd4ceda6-5377-41fe-b35c-d2f157179886" alt="Your Photo/Avatar" width="300"> 
+</p>
 
-I'm highly proficient in the Django Framework and possess a strong understanding of core software engineering principles.
+<h2 align="center">My Skills & Expertise</h2>
 
-* **Back-End Development:** Django, Python, RESTful APIs
-* **Front-End Development:** Next.js, (Currently learning Svelte - replacing React.js)
-* **Cloud Deployment:** AWS (and other cloud providers)
-* **Other Skills:**  Data Structures & Algorithms (Python), SEO optimization, Agile methodologies
+<p align="center">
+  I'm highly proficient in the Django Framework and possess a strong understanding of core software engineering principles.
+</p>
 
-## What I'm Up To
+<p align="center">
+<table>
+  <tr>
+    <td align="center"><strong>Back-End Development</strong><br>Django, Python, RESTful APIs</td>
+    <td align="center"><strong>Front-End Development</strong><br>Next.js, Svelte (Transitioning from React.js)</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Cloud Deployment</strong><br>AWS (and other cloud providers)</td>
+    <td align="center"><strong>Other Skills</strong><br>Data Structures & Algorithms (Python), SEO optimization, Agile methodologies</td>
+  </tr>
+</table>
+</p>
 
-- 🔭 Proud product of ALX/Holberton School, coding daily! 🤣
-- 🌱 Currently expanding my front-end skillset by learning Svelte (transitioning from React.js).
-- 👯 Open to collaborating on exciting web development projects.
-- 💬 Happy to discuss Data Structures and Algorithms in Python.
 
-## Let's Connect!
+
+<h2 align="center">What I'm Up To</h2>
+
+<p align="center">
+  <ul style="list-style-type: none;">  <li><strong>Proud product of ALX/Holberton School, coding daily!</strong> 🤣</li>
+    <li><strong>Currently expanding my front-end skillset by learning Svelte.</strong></li>
+    <li><strong>Open to collaborating on exciting web development projects.</strong></li>
+    <li><strong>Happy to discuss Data Structures and Algorithms in Python.</strong></li>
+  </ul>
+</p>
+
+<h2 align="center">Let's Connect!</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/brian-bett-629a8b22b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&logoWidth=25" alt="LinkedIn" height="40"/>
 </a>
 <a href="https://discord.com/channels/@me/1161935080227348531" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black&logoWidth=25" alt="Discord" height="40"/>
 </a>
 <a href="https://twitter.com/Yow_Brah" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-X-%23000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <img src="https://img.shields.io/badge/Twitter-X-%23000000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black&logoWidth=25" alt="Twitter" height="40"/>
 </a>
 </p>
 
-## Contact Me
+<h2 align="center">Contact Me</h2>
 
-brianbett756@gmail.com
+<p align="center">brianbett756@gmail.com</p>
 
-## Pronouns
+<h2 align="center">Pronouns</h2>
 
-he/him
+<p align="center">he/him</p>
 
-## Fun Fact
+<h2 align="center">Fun Fact</h2>
 
-Did you know that the first computer programmer was a woman named Ada Lovelace? In 1843, she worked with Charles Babbage on his Analytical Engine and wrote what is considered the first algorithm intended to be processed by a machine—the Analytical Engine.  A true pioneer!
+<p align="center">
+Did you know that the first computer programmer was a woman named Ada Lovelace? In 1843, she worked with Charles Babbage on his Analytical Engine and wrote what is considered the first algorithm intended to be processed by a machine—the Analytical Engine. A true pioneer!
+</p>

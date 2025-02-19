@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fd4ceda6-5377-41fe-b35c-d2f157179886" alt="Your Photo/Avatar" width="300"> 
+  <img src="https://github.com/user-attachments/assets/fd4ceda6-5377-41fe-b35c-d2f157179886" alt="Your Photo/Avatar" width="400"> 
 </p>
 
 <h2 align="center">My Skills & Expertise</h2>
@@ -29,12 +29,11 @@
 </table>
 </p>
 
-
-
 <h2 align="center">What I'm Up To</h2>
 
 <p align="center">
-  <ul style="list-style-type: none;">  <li><strong>Proud product of ALX/Holberton School, coding daily!</strong> 🤣</li>
+  <ul style="list-style-type: none;">
+    <li><strong>Proud product of ALX/Holberton School, coding daily!</strong> 🤣</li>
     <li><strong>Currently expanding my front-end skillset by learning Svelte.</strong></li>
     <li><strong>Open to collaborating on exciting web development projects.</strong></li>
     <li><strong>Happy to discuss Data Structures and Algorithms in Python.</strong></li>

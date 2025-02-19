@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fd4ceda6-5377-41fe-b35c-d2f157179886" alt="Your Photo/Avatar" width="400"> 
+  <img src="https://github.com/user-attachments/assets/fd4ceda6-5377-41fe-b35c-d2f157179886" alt="Your Photo/Avatar" width="500"> 
 </p>
 
 <h2 align="center">My Skills & Expertise</h2>
@@ -70,95 +70,93 @@ Did you know that the first computer programmer was a woman named Ada Lovelace? 
 
 ## Languages & Tools
 
-Here's a breakdown of my proficiency in various languages and tools:
-
 <p align="center">
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python" /><br>
+      <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" /><br>
       <strong>Python</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="60" alt="Java" /><br>
+      <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" /><br>
       <strong>Java</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="60" alt="JavaScript" /><br>
+      <img src="https://skillicons.dev/icons?i=javascript" width="40" alt="JavaScript" /><br>
       <strong>JavaScript</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML" /><br>
+      <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" /><br>
       <strong>HTML</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS" /><br>
+      <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" /><br>
       <strong>CSS</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=django" width="60" alt="Django" /><br>
+      <img src="https://skillicons.dev/icons?i=django" width="40" alt="Django" /><br>
       <strong>Django</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="60" alt="Next.js" /><br>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" /><br>
       <strong>Next.js</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="60" alt="React" /><br>
+      <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /><br>
       <strong>React (Transitioning to Svelte)</strong>
     </td>
      <td align="center">
-      <img src="https://skillicons.dev/icons?i=svelte" width="60" alt="Svelte" /><br>
+      <img src="https://skillicons.dev/icons?i=svelte" width="40" alt="Svelte" /><br>
       <strong>Svelte</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git" /><br>
+      <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /><br>
       <strong>Git</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="60" alt="Docker" /><br>
+      <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /><br>
       <strong>Docker</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="60" alt="Kubernetes" /><br>
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="40" alt="Kubernetes" /><br>
       <strong>Kubernetes</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" width="60" alt="AWS" /><br>
+      <img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" /><br>
       <strong>AWS</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=terraform" width="60" alt="Terraform" /><br>
+      <img src="https://skillicons.dev/icons?i=terraform" width="40" alt="Terraform" /><br>
       <strong>Terraform</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="60" alt="Linux" /><br>
+      <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" /><br>
       <strong>Linux</strong>
     </td>
   </tr>
     <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="60" alt="Bash" /><br>
+      <img src="https://skillicons.dev/icons?i=bash" width="40" alt="Bash" /><br>
       <strong>Bash</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=npm" width="60" alt="npm" /><br>
+      <img src="https://skillicons.dev/icons?i=npm" width="40" alt="npm" /><br>
       <strong>npm</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="60" alt="Node.js" /><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" /><br>
       <strong>Node.js</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="60" alt="PostgreSQL" /><br>
+      <img src="https://skillicons.dev/icons?i=postgresql" width="40" alt="PostgreSQL" /><br>
       <strong>PostgreSQL</strong>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="60" alt="MongoDB" /><br>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" /><br>
       <strong>MongoDB</strong>
     </td>
   </tr>

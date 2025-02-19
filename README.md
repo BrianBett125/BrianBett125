@@ -163,9 +163,4 @@ Did you know that the first computer programmer was a woman named Ada Lovelace? 
 </table>
 </p>
 
-## GitHub Stats
 
-[![Followers](https://img.shields.io/github/followers/BrianBett125?style=social)](https://github.com/BrianBett125)
-[![Public Repositories](https://img.shields.io/github/public-repos/BrianBett125?style=for-the-badge)](https://github.com/BrianBett125?tab=repositories)
-[![Total Stars](https://img.shields.io/github/stars/BrianBett125?style=for-the-badge)](https://github.com/BrianBett125?tab=repositories)
-[![Contributions in the last year](https://img.shields.io/github/yearly-contributions/BrianBett125?style=for-the-badge)](https://github.com/BrianBett125)

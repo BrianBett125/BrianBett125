@@ -163,4 +163,4 @@ Did you know that the first computer programmer was a woman named Ada Lovelace? 
 </table>
 </p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?BrianBett125=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)

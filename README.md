@@ -68,3 +68,99 @@
 <p align="center">
 Did you know that the first computer programmer was a woman named Ada Lovelace? In 1843, she worked with Charles Babbage on his Analytical Engine and wrote what is considered the first algorithm intended to be processed by a machine—the Analytical Engine. A true pioneer!
 </p>
+## Languages & Tools
+
+Here's a breakdown of my proficiency in various languages and tools:
+
+<p align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python" /><br>
+      Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="60" alt="Java" /><br>
+      Java
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="60" alt="JavaScript" /><br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML" /><br>
+      HTML
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS" /><br>
+      CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=django" width="60" alt="Django" /><br>
+      Django
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="60" alt="Next.js" /><br>
+      Next.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="60" alt="React" /><br>
+      React (Transitioning to Svelte)
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=svelte" width="60" alt="Svelte" /><br>
+      Svelte
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git" /><br>
+      Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="60" alt="Docker" /><br>
+      Docker
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="60" alt="Kubernetes" /><br>
+      Kubernetes
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" width="60" alt="AWS" /><br>
+      AWS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=terraform" width="60" alt="Terraform" /><br>
+      Terraform
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="60" alt="Linux" /><br>
+      Linux
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="60" alt="Bash" /><br>
+      Bash
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=npm" width="60" alt="npm" /><br>
+      npm
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="60" alt="Node.js" /><br>
+      Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="60" alt="PostgreSQL" /><br>
+      PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="60" alt="MongoDB" /><br>
+      MongoDB
+    </td>
+  </tr>
+</table>
+</p>

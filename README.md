@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hello+there!+👋;I'm+Brian,+a+passionate+Software+Engineer!;I+love+solving+problems+with+code!;Welcome+to+my+GitHub!🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hello+there!+👋;I'm+Brian,+a+passionate+Software+Engineer!;I+love+solving+problems+with+code!;Welcome+to+my+GitHub!🚀" />
 </h1>
 
 <p align="center">
@@ -16,20 +16,23 @@
 
 ## 🛠️ **Tech Stack & Tools**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nextjs,svelte,react,flutter,dart,aws,docker,kubernetes,terraform,linux,bash,git,nodejs,postgresql,mongodb,vscode,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,django,nextjs,svelte,react,flutter,dart,aws,docker,kubernetes,terraform,linux,bash,git,nodejs,postgresql,mongodb,vscode,html,css,tailwind" />
 </p>
 
 ---
 
 ## 📈 **GitHub Stats & Activity**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianBett&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianBett&theme=tokyonight&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianBett&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&since=2024" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianBett&theme=tokyonight&hide_border=true&since=2024" width="400"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBett&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBett&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400"/>
 </p>
 
-🚀 **Current Rank:** ![GitHub User Rank](https://github-profile-trophy.vercel.app/?username=BrianBett&theme=tokyonight&margin-w=10&margin-h=5&no-bg=true&rank=B)
+🚀 **Current Rank:** ![GitHub User Rank](https://github-profile-trophy.vercel.app/?username=BrianBett&theme=tokyonight&margin-w=10&margin-h=5&no-bg=true&rank=B+)
+
+📌 **Most used languages:** **C, JavaScript, Python**  
+📌 **Total contributions since 2024:** 🔥🔥🔥 (Growing rapidly!)  
 
 ---
 

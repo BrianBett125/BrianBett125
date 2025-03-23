@@ -11,37 +11,40 @@
 </p>
 
 <p align="center">
-  <img src="1720035510514.jpg" width="100%" alt="I love writing code background">
+  <img src="https://raw.githubusercontent.com/BrianBett125/BrianBett125/main/1720035510514.jpg" width="100%" alt="I love writing code background">
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 Passionate **Software Engineer** specializing in **C, JavaScript, and Python**.
-- 🌱 Currently diving deep into **Dart & Flutter** for seamless cross-platform development.
-- 🤖 Enthusiastic about **Open Source Projects**, **AI & Machine Learning**.
-- 🎯 Always eager to **build innovative solutions** and **automate the future**.
-- 🔍 Strong advocate for **clean code**, **best practices**, and **efficient problem-solving**.
-- 🧩 Love tackling **complex algorithms** and **challenging programming puzzles**.
-- 🎨 Believe in the **art of software design**, making scalable and maintainable systems.
-- 💬 Always open to **collaborations**, **mentorship**, and **tech discussions**.
+Hi there! I'm a **Software Engineer** with expertise in **C, JavaScript, Python, and Dart**. I completed an intensive **Software Engineering Program** and thrive in building scalable and efficient software solutions.
+
+- 🌱 Currently **mastering Dart & Flutter** for seamless cross-platform development.
+- 💻 Passionate about **Open Source Projects**, **AI & Machine Learning**.
+- 🎯 Strong advocate for **clean code, best practices, and problem-solving**.
+- 🤝 Looking to collaborate on **Web, Mobile, and AI-based projects**.
+- 🧠 Always learning and expanding my **Data Structures & Algorithms** knowledge.
+- 🎨 UI/UX enthusiast, aiming for **engaging and accessible interfaces**.
 - 📫 Reach me at **brianbett@example.com**
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-C-blue?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
 ---
@@ -59,15 +62,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBett125&langs_count=3&theme=radical&layout=compact" alt="Most Used Languages" />
 </p>
-
----
-
-### 🏆 GitHub Insights
-
-- 🔥 **Top 3 Most Used Languages:** C, JavaScript, Python
-- 🚀 **Most Active Repositories:** `skillup`, `nail_it`, `python-projects`, `dartprojects`
-- 📂 **Total Contributions Since 2023:** 🔥🔥🔥 (Growing rapidly!)
-- 🏆 **GitHub Rank:** **B+**
 
 ---
 

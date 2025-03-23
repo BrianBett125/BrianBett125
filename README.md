@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrianBett125/BrianBett125/main/1720035510514.jpg" width="100%" alt="I love writing code background">
+  <img src=""C:\Users\Never Broke Again\Downloads\1720035510514.jpg"" width="100%" alt="I love writing code background">
 </p>
 
 ---
@@ -28,7 +28,7 @@
 - 🤝 Looking to collaborate on **Web, Mobile, and AI-based projects**.
 - 🧠 Always learning and expanding my **Data Structures & Algorithms** knowledge.
 - 🎨 UI/UX enthusiast, aiming for **engaging and accessible interfaces**.
-- 📫 Reach me at **brianbett@example.com**
+- 📫 Reach me at **brianbett756@gmail.com**
 
 ---
 

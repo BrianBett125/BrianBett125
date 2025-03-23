@@ -21,15 +21,24 @@
 
 ---
 
-## 📈 **GitHub Stats & Activity**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianBett&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&since=2024" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianBett&theme=tokyonight&hide_border=true&since=2024" width="400"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBett&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400"/>
-</p>
+## 📈 **GitHub Stats & Activity**  
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=BrianBett&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&since=2024" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianBett&theme=tokyonight&hide_border=true&since=2024" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBett&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400"/>
+    </td>
+  </tr>
+</table>
 
-🚀 **Current Rank:** ![GitHub User Rank](https://github-profile-trophy.vercel.app/?username=BrianBett&theme=tokyonight&margin-w=10&margin-h=5&no-bg=true&rank=B+)
+🚀 **Current Rank:** ![GitHub User Rank](https://github-profile-trophy.vercel.app/?username=BrianBett&theme=tokyonight&margin-w=10&margin-h=5&no-bg=true&rank=B+)  
 
 📌 **Most used languages:** **C, JavaScript, Python**  
 📌 **Total contributions since 2024:** 🔥🔥🔥 (Growing rapidly!)  
@@ -38,40 +47,4 @@
 
 ## 🚀 **What I'm Up To**
 ✔️ **Currently mastering:** Svelte & Cloud Infrastructure  
-✔️ **Learning Dart & Flutter** for **cross-platform development** (Android, iOS, Web) 📱  
-✔️ **Building scalable projects** using Django, Next.js & AWS  
-✔️ **Exploring AI & Machine Learning** for web applications  
-✔️ **Open to collaborations & hackathons!**  
-
----
-
-## 🎨 **Fun Stuff**
-💡 **Quote of the Day:**  
-*"The best way to predict the future is to invent it."* – Alan Kay  
-
-📚 **Favorite Coding Music:** Lofi beats, Synthwave & Chill Coding Music 🎧  
-
-🔧 **Cool Dev Tools I Love:** Docker 🐳, Kubernetes ☸️, AWS ☁️  
-
----
-
-## 📢 **Let's Connect!**
-<p align="center">
-  <a href="https://www.linkedin.com/in/brian-bett-629a8b22b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com/channels/@me/1161935080227348531" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Yow_Brah" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-📩 **Email Me:** `brianbett756@gmail.com`  
-
----
-
-## 🎉 **Thanks for Stopping By!**
-⭐ **If you found this interesting, consider leaving a star on my repos!**  
-🚀 **Happy Coding!**
+✔️ **Diving into Flutter & Dart** for **cross-platform**

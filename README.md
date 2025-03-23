@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  I'm a passionate software engineer who loves solving complex problems and building innovative solutions. Welcome to my GitHub space!
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=500&color=00C7FC&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Tech+Enthusiast;Open+Source+Contributor+%7C+AI+Explorer;Flutter+%26+Dart+for+Cross-Platform+Dev;Building+Innovative+Projects+Everyday!" alt="Typing SVG" />
 </p>
 
@@ -18,8 +22,6 @@
 
 ### 🚀 About Me
 
-Hi there! I'm a **Software Engineer** with expertise in **C, JavaScript, Python, and Dart**. I completed an intensive **Software Engineering Program** and thrive in building scalable and efficient software solutions.
-
 - 🌱 Currently **mastering Dart & Flutter** for seamless cross-platform development.
 - 💻 Passionate about **Open Source Projects**, **AI & Machine Learning**.
 - 🎯 Strong advocate for **clean code, best practices, and problem-solving**.
@@ -27,6 +29,13 @@ Hi there! I'm a **Software Engineer** with expertise in **C, JavaScript, Python,
 - 🧠 Always learning and expanding my **Data Structures & Algorithms** knowledge.
 - 🎨 UI/UX enthusiast, aiming for **engaging and accessible interfaces**.
 - 📫 Reach me at **brianbett@example.com**
+
+---
+
+### 🚀 Featured Projects
+- 🔹 [SkillUp](https://github.com/BrianBett125/skillup) - A platform to help developers level up their coding skills.
+- 🔹 [Nail It](https://github.com/BrianBett125/nail_it) - A productivity tool for tracking daily tasks.
+- 🔹 [Python Projects](https://github.com/BrianBett125/python-projects) - A collection of Python scripts for automation.
 
 ---
 
@@ -75,6 +84,15 @@ Hi there! I'm a **Software Engineer** with expertise in **C, JavaScript, Python,
 
 ---
 
-### 🚀 Fun Fact
+### 🚀 Fun Facts
 
-💡 *"Code is like humor. When you have to explain it, it’s bad."* - *Cory House*
+- 🎵 I code better when listening to **lo-fi beats or classical music**.
+- ☕ I function on **coffee, curiosity, and clean code**.
+- 🧩 Solving **coding puzzles** is my idea of fun.
+- 🚀 My dream is to **build a startup that impacts millions**.
+- 🔧 Debugging is like being a detective in a crime movie where **you're also the murderer**.
+- 💡 *"Code is like humor. When you have to explain it, it’s bad."* - *Cory House*
+- 🖥️ **Ada Lovelace was the first woman programmer**.
+- 🔥 The first-ever computer virus was created in 1986 and was called "Brain"!
+- 🚀 Did you know? The first website ever made is still online at [info.cern.ch](http://info.cern.ch/)!
+```

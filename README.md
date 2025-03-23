@@ -16,21 +16,26 @@
 
 ## 🛠️ **Tech Stack & Tools**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nextjs,svelte,react,aws,docker,kubernetes,terraform,linux,bash,git,nodejs,postgresql,mongodb,vscode,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,django,nextjs,svelte,react,flutter,dart,aws,docker,kubernetes,terraform,linux,bash,git,nodejs,postgresql,mongodb,vscode,html,css,tailwind" />
 </p>
 
 ---
 
 ## 📈 **GitHub Stats & Activity**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianBett&show_icons=true&theme=radical&hide_border=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianBett&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianBett&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianBett&theme=tokyonight&hide_border=true" width="400"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBett&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
 </p>
+
+🚀 **Current Rank:** ![GitHub User Rank](https://github-profile-trophy.vercel.app/?username=BrianBett&theme=tokyonight&margin-w=10&margin-h=5&no-bg=true&rank=B)
 
 ---
 
 ## 🚀 **What I'm Up To**
 ✔️ **Currently mastering:** Svelte & Cloud Infrastructure  
+✔️ **Learning Dart & Flutter** for **cross-platform development** (Android, iOS, Web) 📱  
 ✔️ **Building scalable projects** using Django, Next.js & AWS  
 ✔️ **Exploring AI & Machine Learning** for web applications  
 ✔️ **Open to collaborations & hackathons!**  

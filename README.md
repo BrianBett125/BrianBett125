@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello There, I'm Brian Bett! 👋
 </h1>
+![1720035510514](https://github.com/user-attachments/assets/0cda188c-f1e0-4622-a945-4466af5ace88)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=500&color=00C7FC&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Tech+Enthusiast;Open+Source+Contributor+%7C+AI+Explorer;Flutter+%26+Dart+for+Cross-Platform+Dev;Building+Innovative+Projects+Everyday!" alt="Typing SVG" />

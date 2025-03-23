@@ -3,16 +3,21 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00C7FC&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+Tech+Enthusiast;Open+Source+Contributor+%7C+AI+Explorer;Flutter+%26+Dart+for+Cross-Platform+Dev;Building+Cool+Stuff+Everyday!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=500&color=00C7FC&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Tech+Enthusiast;Open+Source+Contributor+%7C+AI+Explorer;Flutter+%26+Dart+for+Cross-Platform+Dev;Building+Innovative+Projects+Everyday!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/674621/71187814-8e829900-225e-11ea-950a-91a4b519a9f0.gif" width="100%" alt="Python Code Background">
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 I’m a passionate **Software Engineer** specializing in **C, JavaScript, and Python**.
-- 🌱 Currently learning **Dart & Flutter** for cross-platform development.
-- 🤖 I love working on **Open Source Projects** and exploring **AI & Machine Learning**.
+- 💻 Passionate **Software Engineer** specializing in **C, JavaScript, and Python**.
+- 🌱 Currently diving deep into **Dart & Flutter** for seamless cross-platform development.
+- 🤖 Enthusiastic about **Open Source Projects**, **AI & Machine Learning**.
+- 🎯 Always eager to **build innovative solutions** and **automate the future**.
 - 📫 Reach me at **brianbett@example.com**
 
 ---
@@ -44,12 +49,15 @@
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brianbett125/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/BrianBett125)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/BrianBett125)
+<p align="center">
+  <a href="https://www.linkedin.com/in/brianbett125/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/BrianBett125"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://twitter.com/BrianBett125"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+</p>
 
 ---
 
 ### 🚀 Fun Fact
 
-💡 "Code is like humor. When you have to explain it, it’s bad." - *Cory House*
+💡 *"Code is like humor. When you have to explain it, it’s bad."* - *Cory House*
+```

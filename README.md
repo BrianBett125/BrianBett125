@@ -10,6 +10,10 @@
   <img src="https://user-images.githubusercontent.com/674621/71187814-8e829900-225e-11ea-950a-91a4b519a9f0.gif" width="100%" alt="Python Code Background">
 </p>
 
+<p align="center">
+  <img src="1720035510514.jpg" width="100%" alt="I love writing code background">
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -18,6 +22,10 @@
 - 🌱 Currently diving deep into **Dart & Flutter** for seamless cross-platform development.
 - 🤖 Enthusiastic about **Open Source Projects**, **AI & Machine Learning**.
 - 🎯 Always eager to **build innovative solutions** and **automate the future**.
+- 🔍 Strong advocate for **clean code**, **best practices**, and **efficient problem-solving**.
+- 🧩 Love tackling **complex algorithms** and **challenging programming puzzles**.
+- 🎨 Believe in the **art of software design**, making scalable and maintainable systems.
+- 💬 Always open to **collaborations**, **mentorship**, and **tech discussions**.
 - 📫 Reach me at **brianbett@example.com**
 
 ---
@@ -43,7 +51,7 @@
 - 🔥 **Top 3 Most Used Languages:** C, JavaScript, Python
 - 🚀 **Most Active Repositories:** `skillup`, `nail_it`, `python-projects`, `dartprojects`
 - 📂 **Total Contributions Since 2023:** 🔥🔥🔥 (Growing rapidly!)
-- 🏆 **GitHub Rank:** **B+**
+- 🏆 **GitHub Rank:** **B**
 
 ---
 
@@ -60,4 +68,3 @@
 ### 🚀 Fun Fact
 
 💡 *"Code is like humor. When you have to explain it, it’s bad."* - *Cory House*
-```

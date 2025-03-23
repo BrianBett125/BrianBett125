@@ -47,4 +47,40 @@
 
 ## 🚀 **What I'm Up To**
 ✔️ **Currently mastering:** Svelte & Cloud Infrastructure  
-✔️ **Diving into Flutter & Dart** for **cross-platform**
+✔️ **Diving into Flutter & Dart** for **cross-platform app development** (Android, iOS, Web) 📱  
+✔️ **Building scalable projects** using Django, Next.js & AWS  
+✔️ **Exploring AI & Machine Learning** for web applications  
+✔️ **Open to collaborations & hackathons!**  
+
+---
+
+## 🎨 **Fun Stuff**
+💡 **Quote of the Day:**  
+*"The best way to predict the future is to invent it."* – Alan Kay  
+
+📚 **Favorite Coding Music:** Lofi beats, Synthwave & Chill Coding Music 🎧  
+
+🔧 **Cool Dev Tools I Love:** Docker 🐳, Kubernetes ☸️, AWS ☁️  
+
+---
+
+## 📢 **Let's Connect!**
+<p align="center">
+  <a href="https://www.linkedin.com/in/brian-bett-629a8b22b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/channels/@me/1161935080227348531" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Yow_Brah" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+📩 **Email Me:** `brianbett756@gmail.com`  
+
+---
+
+## 🎉 **Thanks for Stopping By!**
+⭐ **If you found this interesting, consider leaving a star on my repos!**  
+🚀 **Happy Coding!**

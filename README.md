@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello There, I'm Brian Bett!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello There, I'm Brian Bett! 👋
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Open+Source+Contributor;Passionate+about+Tech+%26+Innovation;Exploring+Flutter+%26+Dart+for+Cross-Platform+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00C7FC&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+Tech+Enthusiast;Open+Source+Contributor+%7C+AI+Explorer;Flutter+%26+Dart+for+Cross-Platform+Dev;Building+Cool+Stuff+Everyday!" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,9 +35,10 @@
 
 ### 🏆 GitHub Insights
 
-- 🔥 **Top 3 Most Used Languages:** Python, C, JavaScript
-- 🚀 **Most Active Repositories:** `BrianBett125`, `python-projects`, `dartprojects`
-- 📂 **Total Public Repositories:** 30
+- 🔥 **Top 3 Most Used Languages:** C, JavaScript, Python
+- 🚀 **Most Active Repositories:** `skillup`, `nail_it`, `python-projects`, `dartprojects`
+- 📂 **Total Contributions Since 2023:** 🔥🔥🔥 (Growing rapidly!)
+- 🏆 **GitHub Rank:** **B+**
 
 ---
 
@@ -52,4 +53,3 @@
 ### 🚀 Fun Fact
 
 💡 "Code is like humor. When you have to explain it, it’s bad." - *Cory House*
-```

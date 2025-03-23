@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello There, I'm Brian Bett! 👋
 </h1>
-![1720035510514](https://github.com/user-attachments/assets/0cda188c-f1e0-4622-a945-4466af5ace88)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=500&color=00C7FC&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Tech+Enthusiast;Open+Source+Contributor+%7C+AI+Explorer;Flutter+%26+Dart+for+Cross-Platform+Dev;Building+Innovative+Projects+Everyday!" alt="Typing SVG" />
@@ -31,6 +30,22 @@
 
 ---
 
+### 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-C-blue?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -52,7 +67,7 @@
 - 🔥 **Top 3 Most Used Languages:** C, JavaScript, Python
 - 🚀 **Most Active Repositories:** `skillup`, `nail_it`, `python-projects`, `dartprojects`
 - 📂 **Total Contributions Since 2023:** 🔥🔥🔥 (Growing rapidly!)
-- 🏆 **GitHub Rank:** **B**
+- 🏆 **GitHub Rank:** **B+**
 
 ---
 

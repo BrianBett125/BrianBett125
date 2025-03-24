@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="c:\Users\Never Broke Again\Downloads\1720035510514.jpg" alt="I love writing Code">
+  <img src="1720035510514.jpg" alt="I love writing Code">
 </p>
 
 ---

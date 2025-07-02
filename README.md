@@ -58,22 +58,6 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianBett125&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianBett125&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBett125&langs_count=3&theme=radical&layout=compact" alt="Most Used Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 <p align="center">

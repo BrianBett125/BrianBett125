@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Greetings, I'm Brian Bett! 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">👋 Welcome, traveler — you’ve just stepped into Brian Bett’s world of code. 👋
 </h1>
 
 <p align="center">

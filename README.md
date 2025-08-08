@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 🌌🎨 Hello! Discover the digital frontier: the intersection of creative problem-solving and code, meticulousy curated by Brian Bett. 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  Greetings! Discover the digital frontier: the intersection of creative problem-solving and code, meticulousy curated by Brian Bett. 🌌🎨👋
 </h1>
 
 <p align="center">

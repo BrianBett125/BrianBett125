@@ -79,6 +79,3 @@
 - 🖥️ **Ada Lovelace was the first woman programmer**.
 - 🔥 The first-ever computer virus was created in 1986 and was called "Brain"!
 - 🚀 Did you know? The first website ever made is still online at [info.cern.ch](http://info.cern.ch/)!
-
-
-

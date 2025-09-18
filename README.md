@@ -7,13 +7,18 @@
   🚀 Software Engineer | 💡 Innovator | 🌍 Tech Explorer  
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=500&color=00C7FC&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Tech+Enthusiast;Open+Source+Contributor+%7C+AI+Explorer;Flutter+%26+Dart+for+Cross-Platform+Dev;Building+Innovative+Projects+Everyday!" alt="Typing SVG" />
-</p>
+---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/71187814-8e829900-225e-11ea-950a-91a4b519a9f0.gif" width="100%" alt="Code Background">
-</p>
+## ⚡ Profile Summary  
+
+Hi, I’m **Brian Bett**, a passionate **Software Engineer** who loves solving complex problems and building innovative solutions.  
+I specialize in **cross-platform development (Flutter & Dart)**, **AI & Machine Learning**, and **modern web technologies**.  
+I’m an **open-source contributor**, a **UI/UX enthusiast**, and I enjoy working on projects that make a real-world impact.  
+
+- 🔭 Currently working on: **Flutter apps & AI projects**  
+- 🌱 Learning more about: **Cloud Computing & System Design**  
+- 🤝 Open to collaborating on: **Web, Mobile & AI-based projects**  
+- 📫 Reach me: **brianbett756@gmail.com**
 
 ---
 

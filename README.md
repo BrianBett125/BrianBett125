@@ -12,10 +12,10 @@
 ## ⚡ Profile Summary  
 
 Hi, I’m **Brian Bett**, a passionate **Software Engineer** who loves solving complex problems and building innovative solutions.  
-I specialize in **cross-platform development (Flutter & Dart)**, **AI & Machine Learning**, and **modern web technologies**.  
+I specialize in **Python development**, **AI & Machine Learning**, and **modern web technologies**.  
 I’m an **open-source contributor**, a **UI/UX enthusiast**, and I enjoy working on projects that make a real-world impact.  
 
-- 🔭 Currently working on: **Flutter apps & AI projects**  
+- 🔭 Currently working on: **Python-powered web systems & AI projects**  
 - 🌱 Learning more about: **Cloud Computing & System Design**  
 - 🤝 Open to collaborating on: **Web, Mobile & AI-based projects**  
 - 📫 Reach me: **brianbett756@gmail.com**
@@ -24,11 +24,12 @@ I’m an **open-source contributor**, a **UI/UX enthusiast**, and I enjoy workin
 
 ## 👨‍💻 About Me  
 
-- 🌱 Currently mastering **Dart & Flutter** for cross-platform apps  
+- 🌱 Currently mastering **Python** for web, AI & automation  
 - 🤝 Collaborating on **Web, Mobile & AI projects**  
 - 💻 Passionate about **Open Source & Machine Learning**  
 - 🎨 UI/UX enthusiast, crafting **engaging experiences**  
 - 📚 Always leveling up in **Data Structures & Algorithms**  
+- 📊 Scored **B+ in Statistics**, strengthening my data-driven problem solving  
 - 📫 Reach me at: **brianbett756@gmail.com**
 
 ---
@@ -53,17 +54,18 @@ I’m an **open-source contributor**, a **UI/UX enthusiast**, and I enjoy workin
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Frameworks & Libraries**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Databases & Tools**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -81,7 +83,7 @@ I’m an **open-source contributor**, a **UI/UX enthusiast**, and I enjoy workin
 
 ## 📚 Currently Learning / Next Goals  
 
-- 🚀 Advancing **Flutter & Dart** to build production-ready apps  
+- 🚀 Advancing **Python (Django, Flask, FastAPI)** for scalable apps  
 - 🧠 Deepening knowledge in **Machine Learning & AI models**  
 - 📊 Practicing **Data Structures & Algorithms** for stronger problem-solving  
 - ☁️ Exploring **Cloud Computing (AWS & GCP)** for scalable solutions  
@@ -110,3 +112,4 @@ I’m an **open-source contributor**, a **UI/UX enthusiast**, and I enjoy workin
 - 🖥️ Ada Lovelace was the **first woman programmer**  
 - 🔥 The first computer virus (1986) was called **Brain**  
 - 🌐 The first website ever made is still live: [info.cern.ch](http://info.cern.ch/)
+

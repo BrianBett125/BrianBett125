@@ -29,7 +29,7 @@ I’m an **open-source contributor**, a **UI/UX enthusiast**, and I enjoy workin
 - 💻 Passionate about **Open Source & Machine Learning**  
 - 🎨 UI/UX enthusiast, crafting **engaging experiences**  
 - 📚 Always leveling up in **Data Structures & Algorithms**  
-- 📊 Scored **B+ in Statistics**, strengthening my data-driven problem solving  
+- 📊 **Statistics Grade: B+** (strengthening my data-driven problem solving)  
 - 📫 Reach me at: **brianbett756@gmail.com**
 
 ---
@@ -112,4 +112,3 @@ I’m an **open-source contributor**, a **UI/UX enthusiast**, and I enjoy workin
 - 🖥️ Ada Lovelace was the **first woman programmer**  
 - 🔥 The first computer virus (1986) was called **Brain**  
 - 🌐 The first website ever made is still live: [info.cern.ch](http://info.cern.ch/)
-

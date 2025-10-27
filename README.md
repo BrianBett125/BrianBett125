@@ -89,37 +89,8 @@
 
 
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  Greetings! Discover the digital frontier: the intersection of creative problem-solving and code, meticulousy curated by Brian Bett. 🌌🎨👋
-</h1>
 
-<p align="center">
-  I'm a passionate software engineer who loves solving complex problems and building innovative solutions. Welcome to my GitHub space!
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=500&color=00C7FC&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Tech+Enthusiast;Open+Source+Contributor+%7C+AI+Explorer;Flutter+%26+Dart+for+Cross-Platform+Dev;Building+Innovative+Projects+Everyday!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/71187814-8e829900-225e-11ea-950a-91a4b519a9f0.gif" width="100%" alt="Python Code Background">
-</p>
-
-<p align="center">
-  <img src="1720035510514.jpg" alt="I love writing Code">
-</p>
-
----
-
-### 🚀 About Me
-
-- 🌱 Currently **mastering Dart & Flutter** for seamless cross-platform development.
-- 💻 Passionate about **Open Source Projects**, **AI & Machine Learning**.
-- 🎯 Strong advocate for **clean code, best practices, and problem-solving**.
-- 🤝 Looking to collaborate on **Web, Mobile, and AI-based projects**.
-- 🧠 Always learning and expanding my **Data Structures & Algorithms** knowledge.
-- 🎨 UI/UX enthusiast, aiming for **engaging and accessible interfaces**.
-- 📫 Reach me at **brianbett756@gmail.com**
 
 ---
 

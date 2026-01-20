@@ -80,4 +80,4 @@
 - 🔥 The first-ever computer virus was created in 1986 and was called "Brain"!
 - 🚀 Did you know? The first website ever made is still online at [info.cern.ch](http://info.cern.ch/)!
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>

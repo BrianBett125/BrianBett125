@@ -1,13 +1,4 @@
-Most interviews fetishize memorization.
-Real engineering demands judgment under pressure.
 
-Rejecting someone because they’d “Google it” isn’t rigor — it’s intellectual laziness.
-That’s how real work actually gets done.
-
-Builders reason, adapt, and deliver.
-Memorizers perform tricks and freeze.
-
-Stop hiring for theater.
 Hire people who ship.<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  Greetings! Discover the digital frontier: the intersection of creative problem-solving and code, meticulousy curated by Brian Bett. 🌌🎨👋
 </h1>

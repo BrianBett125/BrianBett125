@@ -1,81 +1,141 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  Greetings! Discover the digital frontier: the intersection of creative problem-solving and code, meticulousy curated by Brian Bett. 🌌🎨👋
-</h1>
+<div align="center">
 
-<p align="center">
-  I'm a passionate software engineer who loves solving complex problems and building innovative solutions. Welcome to my GitHub space!
-</p>
+```
+██████╗ ██████╗ ██╗ █████╗ ███╗   ██╗    ██████╗ ███████╗████████╗████████╗
+██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║    ██╔══██╗██╔════╝╚══██╔══╝╚══██╔══╝
+██████╔╝██████╔╝██║███████║██╔██╗ ██║    ██████╔╝█████╗     ██║      ██║   
+██╔══██╗██╔══██╗██║██╔══██║██║╚██╗██║    ██╔══██╗██╔══╝     ██║      ██║   
+██████╔╝██║  ██║██║██║  ██║██║ ╚████║    ██████╔╝███████╗   ██║      ██║   
+╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚══════╝   ╚═╝      ╚═╝   
+```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=500&color=00C7FC&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Tech+Enthusiast;Open+Source+Contributor+%7C+AI+Explorer;Flutter+%26+Dart+for+Cross-Platform+Dev;Building+Innovative+Projects+Everyday!" alt="Typing SVG" />
-</p>
+# Hi, I'm Brian Bett 👋
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/71187814-8e829900-225e-11ea-950a-91a4b519a9f0.gif" width="100%" alt="Python Code Background">
-</p>
+**Software Engineer · Open Source Builder · AI Enthusiast**
 
-<p align="center">
-  <img src="1720035510514.jpg" alt="I love writing Code">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Crafting+elegant+solutions+to+hard+problems;Flutter+%26+Dart+%7C+Cross-Platform+Dev;Spring+Boot+%7C+Java+Backend+Engineer;AI+%26+Machine+Learning+Explorer;Clean+Code+Advocate+%7C+OSS+Contributor)](https://git.io/typing-svg)
 
----
+<br/>
 
-### 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianbett125/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianBett125)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BrianBett125)
+[![Email](https://img.shields.io/badge/Email-brianbett756%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianbett756@gmail.com)
 
-- 🌱 Currently **mastering Dart & Flutter** for seamless cross-platform development.
-- 💻 Passionate about **Open Source Projects**, **AI & Machine Learning**.
-- 🎯 Strong advocate for **clean code, best practices, and problem-solving**.
-- 🤝 Looking to collaborate on **Web, Mobile, and AI-based projects**.
-- 🧠 Always learning and expanding my **Data Structures & Algorithms** knowledge.
-- 🎨 UI/UX enthusiast, aiming for **engaging and accessible interfaces**.
-- 📫 Reach me at **brianbett756@gmail.com**
+</div>
 
 ---
 
-### 🚀 Featured Projects
-- 🔹 [SkillUp](https://github.com/BrianBett125/skillup) - A platform to help developers level up their coding skills.
-- 🔹 [Nail It](https://github.com/BrianBett125/nail_it) - A productivity tool for tracking daily tasks.
-- 🔹 [Python Projects](https://github.com/BrianBett125/python-projects) - A collection of Python scripts for automation.
+## `$ whoami`
+
+```yaml
+name: Brian Bett
+role: Software Engineer
+location: Kenya 🇰🇪
+focus:
+  - Cross-platform Mobile Development (Flutter & Dart)
+  - Backend Engineering (Java & Spring Boot)
+  - AI/ML & Intelligent Systems
+  - Open Source Contribution
+currently_learning:
+  - Advanced Flutter architecture patterns
+  - Microservices with Spring Boot
+  - Machine Learning fundamentals
+values: [ "clean code", "best practices", "continuous learning", "impact-driven engineering" ]
+reach_me: brianbett756@gmail.com
+```
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### 📫 Let's Connect!
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/brianbett125/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/BrianBett125"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://twitter.com/BrianBett125"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-</p>
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**SkillUp**](https://github.com/BrianBett125/skillup) | A platform helping developers level up their coding skills through structured challenges and progress tracking | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**Nail It**](https://github.com/BrianBett125/nail_it) | A productivity tool for tracking daily goals and tasks — because shipping > planning | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| [**Python Projects**](https://github.com/BrianBett125/python-projects) | A curated collection of Python automation scripts — from web scrapers to data pipelines | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+> 💡 *More projects cooking — watch this space.*
 
 ---
 
-### 🚀 Fun Facts
+## 📊 GitHub Stats
 
-- 🎵 I code better when listening to **lo-fi beats or classical music**.
-- ☕ I function on **coffee, curiosity, and clean code**.
-- 🧩 Solving **coding puzzles** is my idea of fun.
-- 🚀 My dream is to **build a startup that impacts millions**.
-- 🔧 Debugging is like being a detective in a crime movie where **you're also the murderer**.
-- 💡 *"Code is like humor. When you have to explain it, it’s bad."* - *Cory House*
-- 🖥️ **Ada Lovelace was the first woman programmer**.
-- 🔥 The first-ever computer virus was created in 1986 and was called "Brain"!
-- 🚀 Did you know? The first website ever made is still online at [info.cern.ch](http://info.cern.ch/)!
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrianBett125&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBett125&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BrianBett125&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 💬 A Few Things About Me
+
+- 🎵 I write better code to **lo-fi beats or classical music**
+- ☕ Powered by **coffee, curiosity, and clean architecture**
+- 🧩 Debugging is my detective work — I'm always the prime suspect
+- 🚀 Long-term mission: **build something that impacts millions**
+- 📚 Constantly levelling up on **DSA, system design, and software craftsmanship**
+- 🎨 I care deeply about **UI/UX** — good software should feel as good as it works
+
+---
+
+## 🧠 Engineering Philosophy
+
+> *"Code is like humor. When you have to explain it, it's bad."*  
+> — Cory House
+
+> *"Make it work, make it right, make it fast."*  
+> — Kent Beck
+
+> *"The best code is no code at all."*  
+> — Jeff Atwood
+
+---
+
+<div align="center">
+
+**If you're building something ambitious, let's talk.**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianbett125/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=BrianBett125&color=00d9ff&style=flat-square&label=Profile+Views)
+
+</div>

@@ -1,75 +1,10 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:7b2ff7,60:00ffcc,100:0d0221&height=220&section=header&text=Brian%20Bett%20Kipkoech&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA%20%7C%20Building%20for%20Billions&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=200&section=header&text=Brian%20Bett%20Kipkoech&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA%20%7C%20Building%20for%20Billions&descAlignY=58&descSize=18"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=500&color=00FFCC&center=true&vCenter=true&multiline=false&width=900&lines=⚡+Full-Stack+Engineer+%7C+Mobile+%7C+Backend+%7C+AI;🐍+Python+Alchemist+%7C+Automating+the+Unimaginable;☕+Java+%2B+Spring+Boot+%7C+Crafting+Scalable+APIs;📱+Flutter+%26+Dart+%7C+One+Codebase%2C+Every+Platform;🐳+Docker+%7C+Containerise+Everything%2C+Fear+Nothing;💜+From+Nairobi+to+the+Cloud+—+Let's+Build.)](https://github.com/BrianBett125)
-
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░░░░  HELLO WORLD BANNER  ░░░░░░░░░░░░░░░ -->
-
-```java
-/**
- * ╔══════════════════════════════════════════════════════════════╗
- * ║          Brian Bett Kipkoech — Software Engineer            ║
- * ║                  Nairobi, Kenya  🇰🇪                         ║
- * ╚══════════════════════════════════════════════════════════════╝
- */
-public class HelloWorld {
-
-    private static final String NAME     = "Brian Bett Kipkoech";
-    private static final String LOCATION = "Nairobi, Kenya 🌍";
-    private static final String MISSION  = "Build software that changes lives at scale.";
-
-    public static void main(String[] args) {
-
-        System.out.println("╔══════════════════════════════════════════╗");
-        System.out.println("║         👋  Hello, World!               ║");
-        System.out.println("╠══════════════════════════════════════════╣");
-        System.out.printf ("║  Engineer  :  %-26s  ║%n", NAME);
-        System.out.printf ("║  From      :  %-26s  ║%n", LOCATION);
-        System.out.printf ("║  Stack     :  Python · Java · Flutter    ║%n");
-        System.out.printf ("║  Status    :  Building in stealth... 👀  ║%n");
-        System.out.println("╠══════════════════════════════════════════╣");
-        System.out.println("║  Mission   :  " + MISSION + "  ║");
-        System.out.println("╚══════════════════════════════════════════╝");
-
-        Runtime.getRuntime().addShutdownHook(new Thread(() ->
-            System.out.println("\n>> Ship. Learn. Iterate. Repeat. 🚀")
-        ));
-    }
-}
-
-// OUTPUT ──────────────────────────────────────────────────────
-// ╔══════════════════════════════════════════════════════╗
-// ║         👋  Hello, World!                           ║
-// ╠══════════════════════════════════════════════════════╣
-// ║  Engineer  :  Brian Bett Kipkoech                   ║
-// ║  From      :  Nairobi, Kenya 🌍                     ║
-// ║  Stack     :  Python · Java · Flutter               ║
-// ║  Status    :  Building in stealth... 👀             ║
-// ╠══════════════════════════════════════════════════════╣
-// ║  Mission   :  Build software that changes lives     ║
-// ╚══════════════════════════════════════════════════════╝
-// >> Ship. Learn. Iterate. Repeat. 🚀
-```
-
----
-
-## 🟢 Status & Availability
-
-<div align="center">
-
-[![Available for Freelance](https://img.shields.io/badge/Freelance-Open%20for%20Projects-00ffcc?style=for-the-badge&logo=freelancer&logoColor=black)](mailto:brianbett756@gmail.com)
-[![Open to Collaborate](https://img.shields.io/badge/Open%20Source-Ready%20to%20Collaborate-7b2ff7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianBett125)
-[![Hiring Status](https://img.shields.io/badge/Full--Time-Open%20to%20Opportunities-ff6b6b?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/brian-bett-kipkoech/)
-[![Mentorship](https://img.shields.io/badge/Mentorship-Available%20for%20Juniors-f7b731?style=for-the-badge&logo=openjdk&logoColor=black)](mailto:brianbett756@gmail.com)
-
-> 💬 *Response time: usually within 24 hours ⚡ — based in Nairobi (EAT, UTC+3)*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&lines=⚡+Full-Stack+Engineer+%7C+Mobile+%7C+Backend+%7C+AI;🐍+Python+Alchemist+%7C+Automating+the+Unimaginable;☕+Java+%2B+Spring+Boot+%7C+Crafting+Scalable+APIs;📱+Flutter+%26+Dart+%7C+One+Codebase%2C+Every+Platform;🐳+Docker+%7C+Containerise+Everything%2C+Fear+Nothing;🚀+From+Nairobi+to+the+Cloud+—+Let's+Build.)](https://github.com/BrianBett125)
 
 </div>
 
@@ -79,11 +14,11 @@ public class HelloWorld {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-bett-kipkoech/)
 [![Gmail](https://img.shields.io/badge/Email-brianbett756@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianbett756@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-BrianBett125-7b2ff7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianBett125)
-[![X](https://img.shields.io/badge/X-@Yow__Brah-00ffcc?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/Yow_Brah)
+[![GitHub](https://img.shields.io/badge/GitHub-BrianBett125-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianBett125)
+[![X](https://img.shields.io/badge/X-@Yow__Brah-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Yow_Brah)
 
-![Profile Views](https://komarev.com/ghpvc/?username=BrianBett125&color=7b2ff7&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/BrianBett125?style=for-the-badge&color=00ffcc&labelColor=0d0221&label=FOLLOWERS)](https://github.com/BrianBett125?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=BrianBett125&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/BrianBett125?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/BrianBett125?tab=followers)
 
 </div>
 
@@ -99,8 +34,8 @@ const engineer: Developer = {
   contact     : { email: "brianbett756@gmail.com", linkedin: "brian-bett-kipkoech" },
 
   languages   : ["Python", "Java", "Dart", "JavaScript", "TypeScript", "C", "SQL"],
-  frameworks  : ["Spring Boot", "Flutter", "React", "Next.js", "FastAPI", "Django"],
-  databases   : ["PostgreSQL", "MySQL", "Supabase"],
+  frameworks  : ["Spring Boot", "Flutter", "React", "Next.js", "FastAPI"],
+  databases   : ["PostgreSQL", "MySQL"],
   devops      : ["Docker", "Git", "GitHub Actions", "Linux"],
 
   currentFocus: [
@@ -115,64 +50,9 @@ const engineer: Developer = {
   superpower  : "Making complex problems embarrassingly simple",
   mission     : "Build software that genuinely changes lives at scale",
 
-  funFact()   { return "I debug by explaining code to a rubber duck. 🦆 The duck wins."; },
+  funFact()   { return "I debug by explaining my code to a rubber duck. 🦆 The duck wins."; },
 };
 ```
-
----
-
-## 🔥 Currently Building
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                        🚧  ACTIVE WORKBENCH  🚧                          ║
-╠═══════════════════════════════════╦════════════════════════════════════╣
-║  Project                          ║  Status                            ║
-╠═══════════════════════════════════╬════════════════════════════════════╣
-║  🤖 AI + Mobile App               ║  ████████░░░░  60% ── Stealth 👀  ║
-║  📱 Flutter Feature Module        ║  ██████████░░  75% ── In Progress  ║
-║  ☕ Spring Boot Microservice       ║  ████░░░░░░░░  35% ── Arch Phase   ║
-║  🐍 Python Automation Suite       ║  ██████████████ 95% ── Final Tests ║
-╚═══════════════════════════════════╩════════════════════════════════════╝
-```
-
-[![Currently Hacking](https://img.shields.io/badge/Currently%20Hacking-AI%20%2B%20Mobile%20App-00ffcc?style=for-the-badge&logo=rocket&logoColor=black)](#)
-[![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Flutter%20%7C%20Spring%20Boot-7b2ff7?style=for-the-badge&logo=stackshare&logoColor=white)](#)
-[![Est. Launch](https://img.shields.io/badge/Est.%20Launch-Q3%202025-ff6b6b?style=for-the-badge&logo=calendar&logoColor=white)](#)
-
-</div>
-
----
-
-## 🃏 The Brian Bett Card
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  ░░░░░░░░░░░░  BRIAN BETT KIPKOECH  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   👤  Brian Bett Kipkoech          📍  Nairobi, Kenya 🇰🇪            ║
-║   ─────────────────────────────────────────────────────────────     ║
-║                                                                      ║
-║   🎵  Currently listening to  →  Lo-fi beats & Classical            ║
-║   ☕  Fuel of choice          →  Coffee. Always coffee.             ║
-║   🦆  Debug strategy          →  Rubber duck wins every time        ║
-║   🎯  End goal                →  Startup that impacts millions      ║
-║   🧩  Off-screen hobby        →  DSA puzzles & tech books           ║
-║   ⏰  Peak productivity       →  Late nights + a full cup           ║
-║   🌍  Timezone                →  EAT (UTC+3) — Nairobi never stops  ║
-║   💬  Favourite quote         →  "Ship. Learn. Iterate. Repeat."    ║
-║                                                                      ║
-║   ─────────────────────────────────────────────────────────────     ║
-║   🃏  RARE DROP: Will actually reply to your cold DM               ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
@@ -180,47 +60,38 @@ const engineer: Developer = {
 
 <div align="center">
 
-### ◈ Core Languages
-
+### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ff6b6b?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7b731?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00ffcc?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7b2ff7?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ◈ Frameworks & Runtimes
-
+### Frameworks & Runtimes
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-00ffcc?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-7b2ff7?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ◈ Databases
-
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-00ffcc?style=for-the-badge&logo=supabase&logoColor=black)
 
-### ◈ DevOps & Infrastructure
-
+### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-7b2ff7?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-f7b731?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### ◈ Tooling
-
+### Tooling
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-ff6b6b?style=for-the-badge&logo=intellijidea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-7b2ff7?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
@@ -229,16 +100,14 @@ const engineer: Developer = {
 ## ⚡ Skill Proficiency Matrix
 
 ```
- LANGUAGE / TOOL     PROFICIENCY                            LEVEL
- ─────────────────────────────────────────────────────────────────
- Python           ▰▰▰▰▰▰▰▰▰▱▱  90%  Automation · AI/ML · APIs
- Java             ▰▰▰▰▰▰▰▰▱▱▱  82%  Spring Boot · OOP · Microservices
- Flutter / Dart   ▰▰▰▰▰▰▰▱▱▱▱  78%  Cross-platform · State · UI
- JavaScript       ▰▰▰▰▰▰▰▱▱▱▱  76%  React · Next.js · Node · DOM
- PostgreSQL       ▰▰▰▰▰▰▱▱▱▱▱  70%  Schema · Queries · Relations
- Docker           ▰▰▰▰▰▱▱▱▱▱▱  60%  Containers · Compose · Networking
- Spring Boot      ▰▰▰▰▰▱▱▱▱▱▱  60%  REST APIs · Security · JPA
- AI / ML          ▰▰▰▰▰▱▱▱▱▱▱  52%  Growing fast 🚀
+Python         ████████████████████░░   90%  → Automation · AI/ML · Scripting · APIs
+Java           ██████████████████░░░░   82%  → Spring Boot · OOP · Microservices
+Flutter/Dart   ████████████████░░░░░░   78%  → Cross-platform · State mgmt · UI
+JavaScript     ████████████████░░░░░░   76%  → React · Next.js · Node · DOM
+PostgreSQL     ██████████████░░░░░░░░   70%  → Schema design · Queries · Relations
+Docker         ████████████░░░░░░░░░░   60%  → Containers · Compose · Networking
+Spring Boot    ████████████░░░░░░░░░░   60%  → REST APIs · Security · JPA
+AI / ML        ██████████░░░░░░░░░░░░   52%  → Growing fast 🚀
 ```
 
 ---
@@ -265,13 +134,13 @@ A structured learning platform for developers who want real, measurable progress
 ### 🏗️ [Nail It](https://github.com/BrianBett125/nail_it)
 > *Every bolt, beam, and bag of cement — accounted for.*
 
-Precision stock management for construction sites. QS teams track material inventory, log deliveries, and eliminate budget-draining guesswork.
+A precision stock management system built for construction sites. Quantity Surveyors can track material inventory across multiple sites, log deliveries, monitor usage, and eliminate the guesswork that costs projects money.
 
-**Why it matters:** On-site material losses are silent budget killers.
+**Why it matters:** On-site material losses are silent budget killers. Nail It gives QS professionals the visibility to stay in control.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7b731?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-7b2ff7?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
 </tr>
@@ -281,9 +150,9 @@ Precision stock management for construction sites. QS teams track material inven
 ### 🐍 [Python Projects](https://github.com/BrianBett125/python-projects)
 > *Automate the boring. Amplify the interesting.*
 
-A curated collection of Python scripts — scrapers, data pipelines, CLI tools, and automation bots.
+A curated collection of Python scripts — web scrapers, data pipelines, CLI tools, and automation bots.
 
-**Why it matters:** Real problems deserve real solutions.
+**Why it matters:** Real problems deserve real solutions, not Stack Overflow copy-paste.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -294,13 +163,14 @@ A curated collection of Python scripts — scrapers, data pipelines, CLI tools, 
 ### 🗳️ [Polling App](https://github.com/BrianBett125/Polling-App)
 > *Create. Share. Vote. In real time.*
 
-An AI-native full-stack polling platform — create polls, share via unique links & QR codes, collect live votes.
+An AI-native full-stack polling platform — create polls, share them via unique links and QR codes, and collect votes live as they roll in.
 
 **Why it matters:** Frictionless feedback at the speed of a QR scan.
 
-![Next.js](https://img.shields.io/badge/-Next.js-7b2ff7?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-00ffcc?style=flat-square&logo=supabase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 </tr>
@@ -310,9 +180,9 @@ An AI-native full-stack polling platform — create polls, share via unique link
 ### 📖 [Learning Log](https://github.com/BrianBett125/Learning_Log)
 > *Your knowledge, organised. Your progress, undeniable.*
 
-A personal knowledge management app — create topics, log entries, build a living archive of everything you've ever learned.
+A personal knowledge management app — create topics you care about, log entries as you explore them, and build a living archive of everything you've ever learned.
 
-**Why it matters:** Most knowledge is lost because it's never written down.
+**Why it matters:** Most knowledge is lost because it's never written down. Learning Log fixes that — one entry at a time.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -341,30 +211,12 @@ Something ambitious is cooking. Building at the intersection of **AI + mobile**.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BrianBett125&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00ffcc&icon_color=7b2ff7&text_color=c9d1d9&border_radius=10"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBett125&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d0221&title_color=00ffcc&text_color=c9d1d9&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BrianBett125&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBett125&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=10"/>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=BrianBett125&theme=github-dark-blue&hide_border=true&background=0d0221&ring=7b2ff7&fire=ff6b6b&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=8b949e"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-> *Watch the snake devour my GitHub contributions — every commit matters.*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-contribution-grid-snake.svg">
-</picture>
-
-> ⚙️ *Activate: add a GitHub Actions workflow → [platane/snk](https://github.com/platane/snk) — ~2 minutes to set up.*
+<img width="70%" src="https://streak-stats.demolab.com?user=BrianBett125&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=8b949e"/>
 
 </div>
 
@@ -384,19 +236,7 @@ Something ambitious is cooking. Building at the intersection of **AI + mobile**.
 
 <div align="center">
 
-[![Brian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrianBett125&bg_color=0d0221&color=00ffcc&line=7b2ff7&point=ff6b6b&area=true&hide_border=true&area_color=7b2ff7)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ⏱️ Coding Time Breakdown
-
-<div align="center">
-
-> 📊 *Powered by [WakaTime](https://wakatime.com) — real coding time across all projects.*
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrianBett125&theme=github_dark&hide_border=true&bg_color=0d0221&title_color=00ffcc&text_color=c9d1d9&border_radius=10&layout=compact)](https://wakatime.com/@BrianBett125)
+[![Brian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrianBett125&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&area_color=00d9ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -405,18 +245,18 @@ Something ambitious is cooking. Building at the intersection of **AI + mobile**.
 ## 🧠 Current Learning Stack
 
 ```
-╔═════════════════════════════════════════════════════════════════════╗
-║                    BRIAN'S 2025 LEARNING OS                         ║
-╠══════════════════════╦══════════════════════╦═══════════════════════╣
-║  📱 MOBILE           ║  ☕ BACKEND           ║  🤖 AI / ML           ║
-║  ──────────────────  ║  ──────────────────  ║  ──────────────────   ║
-║  Riverpod patterns   ║  Microservices       ║  Scikit-learn         ║
-║  BLoC architecture   ║  Spring Security     ║  TensorFlow basics    ║
-║  Flutter animations  ║  JPA + Hibernate     ║  Model deployment     ║
-║  Platform channels   ║  Docker Compose      ║  Prompt engineering   ║
-╠══════════════════════╩══════════════════════╩═══════════════════════╣
-║  🎯 FOCUS METRIC: 1 concept mastered / week → 52 by Dec 2025       ║
-╚═════════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────┐
+│                    BRIAN'S 2025 LEARNING OS                         │
+├──────────────────────┬──────────────────────┬───────────────────────┤
+│  📱 MOBILE           │  ☕ BACKEND           │  🤖 AI / ML           │
+│  ─────────────────   │  ─────────────────   │  ─────────────────    │
+│  Riverpod patterns   │  Microservices       │  Scikit-learn         │
+│  BLoC architecture   │  Spring Security     │  TensorFlow basics    │
+│  Flutter animations  │  JPA + Hibernate     │  Model deployment     │
+│  Platform channels   │  Docker Compose      │  Prompt engineering   │
+├──────────────────────┴──────────────────────┴───────────────────────┤
+│  🎯 FOCUS METRIC: 1 concept mastered / week → 52 by Dec 2025       │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -428,8 +268,8 @@ class BrianBett:
 
     def approach_to_code(self):
         return {
-            "readability"   : "Code is read 10x more than written. Write for humans first.",
-            "simplicity"    : "If it needs a comment to explain it — rewrite it.",
+            "readability"   : "Code is read 10x more than it's written. Write for humans first.",
+            "simplicity"    : "If it needs a comment to explain it, rewrite it.",
             "testing"       : "Untested code is broken code. You just haven't found the bug yet.",
             "shipping"      : "Done > perfect. Iterate in production.",
             "ownership"     : "No 'it works on my machine'. Own the full stack.",
@@ -446,36 +286,10 @@ class BrianBett:
 
     def quote(self) -> str:
         return (
-            '"The best engineers are not those who know everything —'
-            " they're comfortable knowing nothing and figuring it out.\""
+            '"The best engineers I know are not the ones who know everything — '
+            "they're the ones who are comfortable knowing nothing and figuring it out.\""
         )
 ```
-
----
-
-## 🌍 The Nairobi Edge
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   🌍  Building from Nairobi — Africa's Silicon Savannah             ║
-║                                                                      ║
-║   Kenya has one of the most vibrant tech ecosystems on the          ║
-║   continent. M-Pesa changed mobile money for the world.             ║
-║   iHub shaped a generation of engineers. The energy here            ║
-║   is real — and I'm building in the middle of it.                   ║
-║                                                                      ║
-║   Timezone  →  EAT (UTC+3)                                          ║
-║   Community →  Nairobi tech meetups, open source, hackathons        ║
-║   Mission   →  Build software that solves African problems first    ║
-║               and scales globally second.                           ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
@@ -509,35 +323,31 @@ Sunday     ██████░░░░░░░░░░░░░░  Rest. R
 
 ```yaml
 books:
-  - "Clean Code                          — Robert C. Martin"
-  - "The Pragmatic Programmer            — Hunt & Thomas"
-  - "Designing Data-Intensive Apps       — Martin Kleppmann"
-  - "System Design Interview             — Alex Xu"
-  - "The Lean Startup                    — Eric Ries"
+  - "Clean Code — Robert C. Martin"
+  - "The Pragmatic Programmer — Hunt & Thomas"
+  - "Designing Data-Intensive Applications — Martin Kleppmann"
 
 channels:
   - Fireship       → Quick, no-fluff tech explainers
   - Theo (t3.gg)   → Modern web opinions worth hearing
   - TechWorld Nana → Docker, Kubernetes & DevOps clarity
-  - Traversy Media → Practical full-stack builds
 
 podcasts:
   - Syntax FM      → Web dev deep dives
   - The Changelog  → OSS culture & engineering stories
-  - Lex Fridman    → Deep tech & founder conversations
 ```
 
 ---
 
-## 🤝 Let's Build Together
+
 
 <div align="center">
 
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributions-7b2ff7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianBett125)
-[![Freelance](https://img.shields.io/badge/Freelance-Projects-00ffcc?style=for-the-badge&logo=upwork&logoColor=black)](mailto:brianbett756@gmail.com)
-[![Collaboration](https://img.shields.io/badge/Tech-Collaboration-0175C2?style=for-the-badge&logo=flutter&logoColor=white)](https://www.linkedin.com/in/brian-bett-kipkoech/)
-[![Mentorship](https://img.shields.io/badge/Mentorship-Junior%20Devs-f7b731?style=for-the-badge&logo=openjdk&logoColor=black)](mailto:brianbett756@gmail.com)
-[![Startups](https://img.shields.io/badge/Early%20Stage-Startups-ff6b6b?style=for-the-badge&logo=rocket&logoColor=white)](mailto:brianbett756@gmail.com)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributions-6DB33F?style=for-the-badge&logo=github&logoColor=white)
+![Freelance](https://img.shields.io/badge/Freelance-Projects-F7DF1E?style=for-the-badge&logo=upwork&logoColor=black)
+![Collaboration](https://img.shields.io/badge/Tech-Collaboration-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
+![Mentorship](https://img.shields.io/badge/Mentorship-Junior%20Devs-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Startups](https://img.shields.io/badge/Early%20Stage-Startups-EA4335?style=for-the-badge&logo=rocket&logoColor=white)
 
 </div>
 
@@ -549,8 +359,8 @@ podcasts:
 
 > *"The best time to start was yesterday. The second best time is now."*
 
-If you're working on something ambitious, have an idea worth pursuing,
-or just want to talk tech — my inbox is always open.
+If you're working on something ambitious, have an idea worth pursuing, or just want to talk tech —
+my inbox is always open.
 
 <br/>
 
@@ -574,6 +384,6 @@ or just want to talk tech — my inbox is always open.
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:7b2ff7,60:00ffcc,100:0d0221&height=130&section=footer&text=Let's+ship+something+legendary.&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer&text=Let's+ship+something+legendary.&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
 </div>

@@ -12,6 +12,21 @@
 
 <div align="center">
 
+## 🟢 Status & Availability
+
+[![Available for Freelance](https://img.shields.io/badge/Freelance-Open%20for%20Projects-00d9ff?style=for-the-badge&logo=freelancer&logoColor=white)](mailto:brianbett756@gmail.com)
+[![Open to Collaborate](https://img.shields.io/badge/Open%20Source-Ready%20to%20Collaborate-6DB33F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianBett125)
+[![Hiring Status](https://img.shields.io/badge/Full--Time-Open%20to%20Opportunities-F7DF1E?style=for-the-badge&logo=briefcase&logoColor=black)](https://www.linkedin.com/in/brian-bett-kipkoech/)
+[![Mentorship](https://img.shields.io/badge/Mentorship-Available%20for%20Juniors-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](mailto:brianbett756@gmail.com)
+
+> 💬 *Response time: usually within 24 hours ⚡ — based in Nairobi (EAT, UTC+3)*
+
+</div>
+
+---
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-bett-kipkoech/)
 [![Gmail](https://img.shields.io/badge/Email-brianbett756@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianbett756@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-BrianBett125-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianBett125)
@@ -56,6 +71,59 @@ const engineer: Developer = {
 
 ---
 
+## 🔥 Currently Building
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                        🚧  ACTIVE WORKBENCH  🚧                         │
+├──────────────────────────────┬──────────────────────────────────────────┤
+│  Project                     │  Status                                  │
+├──────────────────────────────┼──────────────────────────────────────────┤
+│  🤖 AI + Mobile App          │  ████████░░░░  60% — Stealth Mode 👀    │
+│  📱 Flutter Feature Module   │  ██████████░░  75% — In Progress        │
+│  ☕ Spring Boot Microservice  │  ████░░░░░░░░  35% — Architecture Phase │
+│  🐍 Python Automation Suite  │  ██████████████ 95% — Final Testing     │
+└──────────────────────────────┴──────────────────────────────────────────┘
+```
+
+[![Currently Hacking](https://img.shields.io/badge/Currently%20Hacking-AI%20%2B%20Mobile%20App-00d9ff?style=for-the-badge&logo=rocket&logoColor=white)](#)
+[![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Flutter%20%7C%20Spring%20Boot-6DB33F?style=for-the-badge&logo=stackshare&logoColor=white)](#)
+[![Est. Launch](https://img.shields.io/badge/Est.%20Launch-Q3%202025-F7DF1E?style=for-the-badge&logo=calendar&logoColor=black)](#)
+
+</div>
+
+---
+
+## 🃏 The Brian Bett Card
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   👤  Brian Bett Kipkoech          📍  Nairobi, Kenya 🇰🇪            ║
+║   ─────────────────────────────────────────────────────────────     ║
+║                                                                      ║
+║   🎵  Currently listening to  →  Lo-fi beats & Classical            ║
+║   ☕  Fuel of choice          →  Coffee. Always coffee.             ║
+║   🦆  Debug strategy          →  Rubber duck wins every time        ║
+║   🎯  End goal                →  Startup that impacts millions      ║
+║   🧩  Off-screen hobby        →  DSA puzzles & tech books           ║
+║   ⏰  Peak productivity       →  Late nights + a full cup           ║
+║   🌍  Timezone                →  EAT (UTC+3) — Nairobi never stops  ║
+║   💬  Favourite quote         →  "Ship. Learn. Iterate. Repeat."    ║
+║                                                                      ║
+║   ─────────────────────────────────────────────────────────────     ║
+║   🃏  RARE DROP: Will actually reply to your cold DM               ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
 ## 🛠️ Full Arsenal
 
 <div align="center">
@@ -76,11 +144,13 @@ const engineer: Developer = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -92,6 +162,8 @@ const engineer: Developer = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
@@ -222,6 +294,24 @@ Something ambitious is cooking. Building at the intersection of **AI + mobile**.
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+> *Watch the snake eat my GitHub contributions — every commit counts.*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-contribution-grid-snake.svg">
+</picture>
+
+> ⚙️ *To activate the snake: add a GitHub Actions workflow in your profile repo — see [platane/snk](https://github.com/platane/snk) for setup (takes ~2 minutes).*
+
+</div>
+
+---
+
 ## 🏆 Achievement Unlocked
 
 <div align="center">
@@ -237,6 +327,25 @@ Something ambitious is cooking. Building at the intersection of **AI + mobile**.
 <div align="center">
 
 [![Brian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrianBett125&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&area_color=00d9ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## ⏱️ Coding Time Breakdown
+
+<div align="center">
+
+> 📊 *Powered by [WakaTime](https://wakatime.com) — tracks real coding time across all projects.*
+>
+> *To enable: sign up at wakatime.com → install the VS Code / IntelliJ plugin → add the WakaTime Stats Action to your profile repo.*
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrianBett125&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=10&layout=compact)](https://wakatime.com/@BrianBett125)
+
+```
+💡  Once WakaTime is connected, this card auto-updates with your
+    real weekly coding hours per language — zero manual effort.
+```
 
 </div>
 
@@ -293,6 +402,32 @@ class BrianBett:
 
 ---
 
+## 🌍 The Nairobi Edge
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   🌍  Building from Nairobi — Africa's Silicon Savannah             │
+│                                                                      │
+│   Kenya has one of the most vibrant tech ecosystems on the          │
+│   continent. M-Pesa changed mobile money for the world.             │
+│   iHub shaped a generation of engineers. The energy here            │
+│   is real — and I'm building in the middle of it.                   │
+│                                                                      │
+│   Timezone  →  EAT (UTC+3)                                          │
+│   Community →  Nairobi tech meetups, open source, hackathons        │
+│   Mission   →  Build software that solves African problems first    │
+│               and scales globally second.                           │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
 ## 🌍 Beyond the Terminal
 
 <div align="center">
@@ -326,28 +461,32 @@ books:
   - "Clean Code — Robert C. Martin"
   - "The Pragmatic Programmer — Hunt & Thomas"
   - "Designing Data-Intensive Applications — Martin Kleppmann"
+  - "System Design Interview — Alex Xu"
+  - "The Lean Startup — Eric Ries"
 
 channels:
   - Fireship       → Quick, no-fluff tech explainers
   - Theo (t3.gg)   → Modern web opinions worth hearing
   - TechWorld Nana → Docker, Kubernetes & DevOps clarity
+  - Traversy Media → Practical full-stack builds
 
 podcasts:
   - Syntax FM      → Web dev deep dives
   - The Changelog  → OSS culture & engineering stories
+  - Lex Fridman    → Deep tech & founder conversations
 ```
 
 ---
 
-
+## 🤝 Let's Build Together
 
 <div align="center">
 
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributions-6DB33F?style=for-the-badge&logo=github&logoColor=white)
-![Freelance](https://img.shields.io/badge/Freelance-Projects-F7DF1E?style=for-the-badge&logo=upwork&logoColor=black)
-![Collaboration](https://img.shields.io/badge/Tech-Collaboration-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
-![Mentorship](https://img.shields.io/badge/Mentorship-Junior%20Devs-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Startups](https://img.shields.io/badge/Early%20Stage-Startups-EA4335?style=for-the-badge&logo=rocket&logoColor=white)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributions-6DB33F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianBett125)
+[![Freelance](https://img.shields.io/badge/Freelance-Projects-F7DF1E?style=for-the-badge&logo=upwork&logoColor=black)](mailto:brianbett756@gmail.com)
+[![Collaboration](https://img.shields.io/badge/Tech-Collaboration-0175C2?style=for-the-badge&logo=flutter&logoColor=white)](https://www.linkedin.com/in/brian-bett-kipkoech/)
+[![Mentorship](https://img.shields.io/badge/Mentorship-Junior%20Devs-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](mailto:brianbett756@gmail.com)
+[![Startups](https://img.shields.io/badge/Early%20Stage-Startups-EA4335?style=for-the-badge&logo=rocket&logoColor=white)](mailto:brianbett756@gmail.com)
 
 </div>
 

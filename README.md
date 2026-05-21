@@ -138,8 +138,9 @@ A precision stock management system built for construction sites. Quantity Surve
 
 **Why it matters:** On-site material losses are silent budget killers. Nail It gives QS professionals the visibility to stay in control.
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
 </tr>
@@ -304,7 +305,41 @@ class BrianBett:
 
 ---
 
-## 🤝 Open to
+## 🗓️ My Dev Week — Roughly
+
+```
+Monday     ██████████░░░░░░░░░░  Backend & API design
+Tuesday    ████████████████░░░░  Feature building (mobile/web)
+Wednesday  ██████████████░░░░░░  Code review & refactoring
+Thursday   ████████░░░░░░░░░░░░  DSA practice & system design
+Friday     ██████████████████░░  Open source & side projects
+Saturday   ████████████░░░░░░░░  Learning & documentation
+Sunday     ██████░░░░░░░░░░░░░░  Rest. Recharge. Reflect.
+```
+
+---
+
+## 📰 What I'm Reading / Watching
+
+```yaml
+books:
+  - "Clean Code — Robert C. Martin"
+  - "The Pragmatic Programmer — Hunt & Thomas"
+  - "Designing Data-Intensive Applications — Martin Kleppmann"
+
+channels:
+  - Fireship       → Quick, no-fluff tech explainers
+  - Theo (t3.gg)   → Modern web opinions worth hearing
+  - TechWorld Nana → Docker, Kubernetes & DevOps clarity
+
+podcasts:
+  - Syntax FM      → Web dev deep dives
+  - The Changelog  → OSS culture & engineering stories
+```
+
+---
+
+
 
 <div align="center">
 

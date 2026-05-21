@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-bett-kipkoech/)
 [![Gmail](https://img.shields.io/badge/Email-brianbett756@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianbett756@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-BrianBett125-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianBett125)
-[![Twitter](https://img.shields.io/badge/Twitter-@BrianBett125-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BrianBett125)
+[![X](https://img.shields.io/badge/X-@Yow__Brah-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Yow_Brah)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BrianBett125&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/BrianBett125?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/BrianBett125?tab=followers)
@@ -173,6 +173,18 @@ Something ambitious is cooking. Building at the intersection of **AI + mobile**.
 </td>
 </tr>
 </table>
+
+---
+
+## 📚 Docs, Migrations, Issues & Roadmap
+
+- 🗂️ **App architecture and schema:** see `supabase/README.md` and `supabase/migrations/`
+- 🛠️ **DB/app scripts:** see `scripts/` — migrations, schema helpers, and dev utilities
+- 🐛 **Issues & Roadmap:** use the repository's [Issues tab](../../issues) to track bugs and plan features
+
+> 🤝 **Contributions are welcome!**
+> If you're new, start by filing an Issue or picking up a `good first issue`.
+> Keep PRs focused — one problem, one solution.
 
 ---
 

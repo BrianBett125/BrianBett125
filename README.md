@@ -131,12 +131,12 @@ A structured learning platform for developers who want real, measurable progress
 </td>
 <td width="50%" valign="top">
 
-### ✅ [Nail It](https://github.com/BrianBett125/nail_it)
-> *Stop planning. Start shipping.*
+### 🏗️ [Nail It](https://github.com/BrianBett125/nail_it)
+> *Every bolt, beam, and bag of cement — accounted for.*
 
-A beautifully crafted cross-platform productivity app for tracking goals, tasks, and daily wins.
+A precision stock management system built for construction sites. Quantity Surveyors can track material inventory across multiple sites, log deliveries, monitor usage, and eliminate the guesswork that costs projects money.
 
-**Why it matters:** Discipline beats motivation. Nail It builds both.
+**Why it matters:** On-site material losses are silent budget killers. Nail It gives QS professionals the visibility to stay in control.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -177,11 +177,11 @@ An AI-native full-stack polling platform — create polls, share them via unique
 <td width="50%" valign="top">
 
 ### 📖 [Learning Log](https://github.com/BrianBett125/Learning_Log)
-> *Document your curiosity. Track your growth.*
+> *Your knowledge, organised. Your progress, undeniable.*
 
-A full-stack Django web app for tracking personal learning journeys — create topics, log entries, and watch your knowledge compound over time.
+A personal knowledge management app — create topics you care about, log entries as you explore them, and build a living archive of everything you've ever learned.
 
-**Why it matters:** The best learners are the ones who write it down.
+**Why it matters:** Most knowledge is lost because it's never written down. Learning Log fixes that — one entry at a time.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)

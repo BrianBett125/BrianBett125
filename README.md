@@ -159,6 +159,36 @@ A curated collection of Python scripts — web scrapers, data pipelines, CLI too
 </td>
 <td width="50%" valign="top">
 
+### 🗳️ [Polling App](https://github.com/BrianBett125/Polling-App)
+> *Create. Share. Vote. In real time.*
+
+An AI-native full-stack polling platform — create polls, share them via unique links and QR codes, and collect votes live as they roll in.
+
+**Why it matters:** Frictionless feedback at the speed of a QR scan.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 [Learning Log](https://github.com/BrianBett125/Learning_Log)
+> *Document your curiosity. Track your growth.*
+
+A full-stack Django web app for tracking personal learning journeys — create topics, log entries, and watch your knowledge compound over time.
+
+**Why it matters:** The best learners are the ones who write it down.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔭 Next Project: ???
 > *Currently in stealth mode. 👀*
 
@@ -173,18 +203,6 @@ Something ambitious is cooking. Building at the intersection of **AI + mobile**.
 </td>
 </tr>
 </table>
-
----
-
-## 📚 Docs, Migrations, Issues & Roadmap
-
-- 🗂️ **App architecture and schema:** see `supabase/README.md` and `supabase/migrations/`
-- 🛠️ **DB/app scripts:** see `scripts/` — migrations, schema helpers, and dev utilities
-- 🐛 **Issues & Roadmap:** use the repository's [Issues tab](../../issues) to track bugs and plan features
-
-> 🤝 **Contributions are welcome!**
-> If you're new, start by filing an Issue or picking up a `good first issue`.
-> Keep PRs focused — one problem, one solution.
 
 ---
 

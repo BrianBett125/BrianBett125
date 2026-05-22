@@ -359,12 +359,14 @@ Something ambitious is cooking. Building at the intersection of **AI + mobile**.
 > *Watch the snake devour my GitHub contributions — every commit matters.*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-snake.svg">
 </picture>
 
-> ⚙️ *Activate: add a GitHub Actions workflow → [platane/snk](https://github.com/platane/snk) — ~2 minutes to set up.*
+<br/>
+
+<img src="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/ocean.gif" alt="github contribution ocean animation" />
 
 </div>
 

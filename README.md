@@ -577,3 +577,4 @@ or just want to talk tech — my inbox is always open.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:7b2ff7,60:00ffcc,100:0d0221&height=130&section=footer&text=Let's+ship+something+legendary.&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
 </div>
+

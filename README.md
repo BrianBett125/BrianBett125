@@ -1,5 +1,4 @@
 
-.
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:7b2ff7,60:00ffcc,100:0d0221&height=220&section=header&text=Brian%20Bett%20Kipkoech&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA%20%7C%20Building%20for%20Billions&descAlignY=60&descSize=18"/>
 </div>

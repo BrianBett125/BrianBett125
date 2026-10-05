@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:7b2ff7,70:00ffcc,100:0d0221&height=170&section=header"/>
-
-# Brian Bett Kipkoech
-
-### Full-Stack & Backend Engineer
+<img width="100%" alt="Brian Bett Kipkoech - Backend-Focused Full-Stack Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:7b2ff7,70:00ffcc,100:0d0221&height=270&section=header&text=Brian%20Bett%20Kipkoech&fontSize=72&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Backend-Focused%20Full-Stack%20Engineer&descSize=28&descAlign=50&descAlignY=58"/>
 
 <a href="https://brian-portoflio.vercel.app/">
   <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=00FFCC&center=true&vCenter=true&width=640&height=40&lines=I+build+software+end-to-end;Java+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+Django;React+%C2%B7+Next.js+%C2%B7+PostgreSQL+%C2%B7+Docker;Over+3+years+shipping+real+products"/>
@@ -18,9 +14,8 @@
 <a href="https://twitter.com/Yow_Brah"><img alt="X" src="https://img.shields.io/badge/X-@Yow__Brah-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 <a href="https://github.com/BrianBett125?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/BrianBett125?style=flat-square&label=followers&color=7b2ff7&labelColor=0d0221"/></a>
-<a href="https://github.com/BrianBett125?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBrianBett125&query=%24.public_repos&label=public%20repos&style=flat-square&color=00ffcc&labelColor=0d0221"/></a>
 
-<sub><a href="#-about">About</a> · <a href="#-featured-projects">Projects</a> · <a href="#-stack">Stack</a> · <a href="#-github-stats">Stats</a> · <a href="#-how-i-work">How I work</a> · <a href="#-contact">Contact</a></sub>
+<sub><a href="#-about">About</a> · <a href="#-featured-projects">Projects</a> · <a href="#-stack">Stack</a> · <a href="#-work-with-me">Work with me</a> · <a href="#-github-stats">Stats</a> · <a href="#-how-i-work">How I work</a> · <a href="#-contact">Contact</a></sub>
 
 </div>
 
@@ -35,7 +30,7 @@ I build software **end-to-end**: architecture, APIs, databases and business logi
 
 | | |
 |:--|:--|
-| **Role** | Software Engineer · Full-Stack & Backend · over 3 years |
+| **Role** | Backend-focused Full-Stack Engineer · over 3 years |
 | **Now** | Building an ISP billing platform at [Ikonex Systems](https://github.com/IKONEX_SYSTEMS): Spring Boot, PostgreSQL, FreeRADIUS, MikroTik, M-Pesa |
 | **Strengths** | System design · REST API design · Authentication · Third-party integrations · Production debugging |
 | **Also** | AI quality engineering: speech and language data evaluation for ML pipelines |
@@ -44,6 +39,10 @@ I build software **end-to-end**: architecture, APIs, databases and business logi
 ---
 
 ## 🚀 Featured projects
+
+### 📡 Internet Billing System &nbsp;·&nbsp; Ikonex Systems &nbsp;·&nbsp; *private client work*
+**An internet billing platform for a Wi-Fi hotspot operator.** I build and test the Spring Boot backend and its integrations: a layered REST API (entity, DTO, repository, service, controller), PostgreSQL, FreeRADIUS authentication wired to MikroTik hotspots, WireGuard-gated device registration and M-Pesa payments. On the quality side I run the UAT plan across 15 modules with bug tracking, and I maintain the user manual and API documentation. The source is private, but I'm happy to walk through the architecture in an interview.
+<br/>`Java` `Spring Boot` `PostgreSQL` `FreeRADIUS` `MikroTik` `WireGuard` `M-Pesa`
 
 ### 🎯 SkillUp &nbsp;·&nbsp; [Code](https://github.com/BrianBett125/skillup) &nbsp;·&nbsp; [Live demo](https://skillup-zeta.vercel.app)
 **A course marketplace that connects learners with instructors.** Learners browse and filter a catalog by keyword, category and skill level, enroll, and track their progress through quizzes and assignments. Instructors publish courses and manage their content. The platform also covers payments with instructor revenue sharing, ratings and reviews, discussion forums, notifications and sales analytics. A full-stack project (separate Backend and Frontend), built as a team with [Njenga Mwangi](https://github.com/willykar).
@@ -110,6 +109,18 @@ I build software **end-to-end**: architecture, APIs, databases and business logi
 
 ---
 
+## 🤝 Work with me
+
+| I can help with | Typical outcome |
+|:--|:--|
+| **Backend APIs and integrations** | Clean REST services in Java/Spring Boot or Python/Django, with authentication and payment (M-Pesa) or third-party integrations |
+| **Full-stack web apps** | A product taken from idea to a deployed React or Next.js app on a Postgres-backed API |
+| **Quality and test documentation** | UAT plans, bug tracking, user manuals and API docs that make releases safer |
+
+Full-time roles or contract work, both welcome. [Email me](mailto:brianbett756@gmail.com) with a short brief and I'll reply within 24 hours.
+
+---
+
 ## 🤖 How I work
 
 **Engineering first, AI as a force multiplier.** I use AI-native IDEs to explore approaches, refactor, debug and draft tests and docs faster. Design decisions, review and accountability stay with me.
@@ -148,6 +159,6 @@ Hiring for a Full-Stack, Backend or product engineering role, or have a freelanc
 <a href="https://www.linkedin.com/in/brian-bett-kipkoech/"><img alt="Message on LinkedIn" src="https://img.shields.io/badge/Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://brian-portoflio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/See%20my%20portfolio-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:7b2ff7,70:00ffcc,100:0d0221&height=110&section=footer&text=Ship.%20Learn.%20Iterate.%20Repeat.&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=68"/>
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:7b2ff7,70:00ffcc,100:0d0221&height=140&section=footer&text=Ship.%20Learn.%20Iterate.%20Repeat.&fontSize=34&fontColor=ffffff&fontAlign=50&fontAlignY=66"/>
 
 </div>

@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" alt="Brian Bett Kipkoech - backend-focused full-stack engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:7b2ff7,70:00ffcc,100:0d0221&height=260&section=header&text=Brian%20Bett%20Kipkoech&fontSize=88&fontColor=00FFCC&animation=fadeIn"/>
+<img width="100%" alt="Brian Bett Kipkoech - Backend-focused Full-Stack Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:7b2ff7,70:00ffcc,100:0d0221&height=250&section=header&text=Brian%20Bett%20Kipkoech&fontSize=88&fontColor=00FFCC&animation=fadeIn"/>
 
 <a href="https://brian-portoflio.vercel.app/">
-  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=720&height=52&lines=Backend-Focused+Full-Stack+Engineer;Shipping+Trustworthy+Software+at+Scale;System+Design+%7C+APIs+%7C+DevOps;Reliable+Products+from+Idea+to+Production"/>
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=760&height=52&lines=Backend-Focused+Full-Stack+Engineer;Building+Reliable+Systems+for+Real+Users;System+Design+%7C+APIs+%7C+DevOps;Product-Ready+Software+from+Idea+to+Production"/>
 </a>
 
-### I build software that is reliable, maintainable, and useful in production.
+### I build software that is reliable, maintainable, and valuable in production.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-brian--portoflio.vercel.app-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white)](https://brian-portoflio.vercel.app/)
 [![Email](https://img.shields.io/badge/Hire%20me-brianbett756@gmail.com-00ffcc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:brianbett756@gmail.com)
@@ -19,50 +19,49 @@
 </div>
 
 > [!IMPORTANT]
-> Open to work: backend, full-stack, and product engineering roles — with remote-friendly opportunities and selected freelance/contract work.
+> Open to work: backend, full-stack, and product engineering roles — remote-friendly and selected contract/freelance opportunities welcome.
 
 ---
 
 ## 👋 About
 
-I’m a backend-focused full-stack engineer with 3+ years of experience building software from idea to deployment. I care about the real-world outcome: clean architecture, maintainable code, strong integrations, and systems that stay stable under real use.
+I’m a backend-focused full-stack engineer with 3+ years of experience building software from idea to deployment. I care about the real outcome: clean architecture, maintainable code, strong integrations, and systems that stay stable under real usage.
 
-I currently build an ISP billing platform at [Ikonex Systems](https://github.com/IKONEX_SYSTEMS), working with Spring Boot, PostgreSQL, FreeRADIUS, MikroTik, and M-Pesa integrations.
+Currently, I build an ISP billing platform at [Ikonex Systems](https://github.com/IKONEX_SYSTEMS), working with Spring Boot, PostgreSQL, FreeRADIUS, MikroTik, and M-Pesa integrations.
 
-### My strengths
-
-- System design and API architecture
-- Java/Spring Boot backend engineering
-- Python/Django backend services
-- React/Next.js product frontends
-- Database design and data integrity
-- Production debugging and operational reliability
+| Focus area | What I bring |
+|:--|:--|
+| **System design** | API design, service boundaries, scalable structure, maintainable architecture |
+| **Backend** | Java/Spring Boot, Python/Django, REST APIs, authentication, business logic |
+| **Frontend** | React/Next.js, TypeScript, responsive UI, product-focused experience |
+| **Production** | deployment, debugging, monitoring, reliability, Linux operations |
+| **Quality** | test thinking, documentation, process clarity, release confidence |
 
 ---
 
 ## 🚀 Featured work
 
 ### 🌐 Portfolio · [Code](https://github.com/BrianBett125/brian-portoflio) · [Live](https://brian-portoflio.vercel.app/)
-A production-style personal site for showcasing work, writing, and contact flow. Built as a real product with a strong UX and deploy-ready structure.
+A polished production-style personal site with dark/light themes, an MDX blog, project showcase, and optimized contact flow.
 
 `Next.js 15` `React 19` `TypeScript` `Tailwind` `Prisma` `Jest`
 
 ![Last commit](https://img.shields.io/github/last-commit/BrianBett125/brian-portoflio?style=flat-square&color=7b2ff7&labelColor=0d0221) ![Stars](https://img.shields.io/github/stars/BrianBett125/brian-portoflio?style=flat-square&color=00ffcc&labelColor=0d0221)
 
 ### 📡 Internet Billing System · [Ikonex Systems](https://github.com/IKONEX_SYSTEMS)
-A Wi-Fi hotspot billing platform with layered backend architecture, PostgreSQL persistence, and third-party telecom integrations.
+A Wi-Fi hotspot billing platform with a layered backend, PostgreSQL persistence, and telecom integrations for real-world subscriber operations.
 
 `Java` `Spring Boot` `PostgreSQL` `FreeRADIUS` `MikroTik` `M-Pesa` `WireGuard`
 
 ### 🎓 SkillUp · [Code](https://github.com/BrianBett125/skillup) · [Live demo](https://skillup-zeta.vercel.app)
-A course marketplace for browsing, enrolling, and tracking learning paths with progress-aware interactions.
+A course marketplace for browsing, enrolling, and tracking learning progress through assignment-based workflows.
 
 `Next.js` `TypeScript` `PostgreSQL` `Tailwind`
 
 ![Last commit](https://img.shields.io/github/last-commit/BrianBett125/skillup?style=flat-square&color=7b2ff7&labelColor=0d0221) ![Stars](https://img.shields.io/github/stars/BrianBett125/skillup?style=flat-square&color=00ffcc&labelColor=0d0221)
 
 ### 🗳️ Polling App · [Code](https://github.com/BrianBett125/Polling-App)
-A real-time polling app with signed-in and anonymous voting flows, link sharing, and secure database rules.
+A real-time polling app with signed-in and anonymous voting, link sharing, and secure database rules.
 
 `Next.js` `TypeScript` `Supabase` `Tailwind` `Vitest`
 
@@ -77,17 +76,17 @@ A Django app for tracking learning topics, entries, and progress over time.
 
 ---
 
-## 🧠 What I care about
+## 🧠 What I value
 
-- Building software that is easy to reason about
-- Clear boundaries between layers, services, and responsibilities
-- User-centered design and clean product UX
+- Clear architecture and maintainable boundaries
+- Products that solve real user problems
+- Thoughtful API design and data integrity
 - Fast feedback loops and reliable delivery
-- Ownership from architecture to deployment
+- Ownership from idea to production
 
 ---
 
-## 🛠️ Tech stack
+## 🛠️ Technical stack
 
 <div align="center">
 
@@ -123,9 +122,9 @@ A Django app for tracking learning topics, entries, and progress over time.
 I treat engineering as a product discipline: understand the problem, design for maintainability, ship the right version, validate in real use, and improve deliberately.
 
 - Readable first: code is read far more than it is written
-- Tested: untested code is a bug you have not found yet
+- Tested: untested code is a bug you haven’t found yet
 - Ship early, learn fast, then improve with evidence
-- Own the full stack: design, build, deploy, support
+- Own the full lifecycle: design, build, deploy, support
 
 > Understand the problem → design the system → build it → ship it → learn → improve.
 
@@ -135,11 +134,11 @@ I treat engineering as a product discipline: understand the problem, design for 
 
 | Need | Outcome |
 |:--|:--|
-| **Backend APIs** | Well-structured services in Java/Spring Boot or Python/Django |
+| **Backend APIs** | Clean, scalable services in Java/Spring Boot or Python/Django |
 | **Full-stack products** | End-to-end product delivery with React/Next.js and API integration |
 | **Architecture & QA** | Reliable system design, testing flow, and documentation |
 
-I’m open to full-time, contract, and product-focused collaboration. [Email me](mailto:brianbett756@gmail.com) with a short brief and I’ll respond within 24 hours.
+I’m open to full-time, contract, and product-focused collaboration. [Email me](mailto:brianbett756@gmail.com) with a short brief, and I’ll respond within 24 hours.
 
 ---
 

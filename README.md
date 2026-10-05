@@ -3,7 +3,7 @@
 <img width="100%" alt="Brian Bett Kipkoech, Full-Stack and Backend Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:7b2ff7,70:00ffcc,100:0d0221&height=220&section=header&text=Brian%20Bett%20Kipkoech&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Engineer%20%C2%B7%20Java%20%C2%B7%20Python%20%C2%B7%20React&descAlignY=60&descSize=17"/>
 
 <a href="https://brian-portoflio.vercel.app/">
-  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=00FFCC&center=true&vCenter=true&width=640&height=40&lines=I+build+software+end-to-end;Java+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+Django;React+%C2%B7+Next.js+%C2%B7+PostgreSQL+%C2%B7+Docker;3%2B+years+shipping+real+products"/>
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=00FFCC&center=true&vCenter=true&width=640&height=40&lines=I+build+software+end-to-end;Java+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+Django;React+%C2%B7+Next.js+%C2%B7+PostgreSQL+%C2%B7+Docker;Over+4+years+shipping+real+products"/>
 </a>
 
 **I turn complex requirements into simple, reliable, maintainable software.**
@@ -24,7 +24,7 @@
 
 | | |
 |:--|:--|
-| **Role** | Software Engineer · Full-Stack & Backend · 3+ years |
+| **Role** | Software Engineer · Full-Stack & Backend · over 4 years |
 | **Now** | Building an ISP billing platform at [Ikonex Systems](https://github.com/IKONEX_SYSTEMS): Spring Boot, PostgreSQL, FreeRADIUS, MikroTik, M-Pesa |
 | **Strengths** | System design · REST API design · Auth · Third-party integrations · Production debugging |
 | **Also** | AI quality engineering: speech and language data evaluation for ML pipelines |
@@ -44,15 +44,15 @@
 | Layer | Tools |
 |:--|:--|
 | **Backend** | Java · Spring Boot · Python · Django · REST APIs · Microservices |
-| **Frontend** | React · Next.js · TypeScript · JavaScript · HTML · CSS |
-| **Data** | PostgreSQL · MySQL · Supabase |
-| **DevOps** | Docker · Git · GitHub Actions · Linux · Bash |
+| **Frontend** | React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind |
+| **Data** | PostgreSQL · MySQL · Supabase · Firebase · SQLite |
+| **DevOps** | Docker · Git · GitHub Actions · Linux · Bash · Vercel |
 
 ---
 
 ## 🚀 Featured projects
 
-<sub>Live cards: stars, forks and language update automatically from each repository.</sub>
+<sub>The cards below are live: stars, forks and language update automatically from each repository.</sub>
 
 <div align="center">
 
@@ -65,25 +65,42 @@
 
 </div>
 
-| Project | What it is | Stack |
-|:--|:--|:--|
-| **[SkillUp](https://github.com/BrianBett125/skillup)** · [live](https://skillup-zeta.vercel.app) | Learning platform connecting learners and instructors: course catalog, content management, progress tracking, payments | Python · PostgreSQL |
-| **[Polling App](https://github.com/BrianBett125/Polling-App)** | Full-stack polling platform: create polls, share by link or QR code, collect live votes | Next.js · TypeScript · Supabase |
-| **[Learning Log](https://github.com/BrianBett125/Learning_Log)** | Django app for logging topics and journal entries as you learn | Python · Django |
-| **[Nail It](https://github.com/BrianBett125/Nail_It)** | Stock-taking for construction sites: materials records per site | JavaScript · CSS |
-| **[Simple Shell](https://github.com/BrianBett125/simple_shell)** | UNIX shell written in C, built as a pair project | C |
+### 🎯 [SkillUp](https://github.com/BrianBett125/skillup) · [Live demo](https://skillup-zeta.vercel.app)
+A course marketplace that connects learners with instructors. Learners browse and filter a course catalog, enroll, and track progress through quizzes and assignments. Instructors create profiles and publish course content. Planned and built features include payments with instructor revenue sharing, reviews and ratings, discussion forums, notifications and sales analytics. Built as a full-stack monorepo (Backend and Frontend) with a teammate.
+
+### 🗳️ [Polling App](https://github.com/BrianBett125/Polling-App)
+A full-stack polling platform with QR code sharing. Create a poll, share it by unique link or QR code, and watch votes come in live. Supports authenticated and anonymous voting, and secures data with Supabase Row Level Security. Uses Next.js App Router with Server Components and Server Actions, TypeScript, Tailwind with shadcn/ui, and Vitest for testing.
+<br/>`Next.js` `TypeScript` `Supabase` `Tailwind` `Vitest`
+
+### 📘 [Learning Log](https://github.com/BrianBett125/Learning_Log)
+A Django web app for tracking your learning journey. Users register and log in, create topics, write entries under each topic, and edit or review past entries. Styled with Bootstrap.
+<br/>`Python` `Django` `Bootstrap` `SQLite`
+
+### 🧑‍💻 [Portfolio](https://github.com/BrianBett125/brian-portoflio) · [Visit](https://brian-portoflio.vercel.app/)
+A responsive personal site with dark and light modes, a project showcase filterable by technology, an MDX blog, a validated contact form that sends email, an analytics dashboard, SEO metadata and Jest tests. Deployable with Docker.
+<br/>`Next.js 15` `React 19` `TypeScript` `Tailwind` `Framer Motion` `Prisma` `Jest`
+
+### 🏗️ [Nail It](https://github.com/BrianBett125/Nail_It)
+A stock-taking app for construction sites. Teams create a site, then add, edit and delete the materials delivered to it with quantities, units and dates. Each site keeps its own records, so materials are tracked per site. Hosted on Vercel with Firebase as the database, built with a teammate.
+<br/>`JavaScript` `Firebase` `HTML` `CSS`
+
+### 🐚 [Simple Shell](https://github.com/BrianBett125/simple_shell)
+A UNIX command-line shell written from scratch in C: a basic interface for running commands on the system. Built as a pair project during ALX software engineering training.
+<br/>`C`
 
 ---
 
-## 🔴 Live from my repositories
+## 📈 Contribution activity
 
-<!--RECENT_START-->
-_This section syncs automatically from my GitHub account every 6 hours._
-<!--RECENT_END-->
+<div align="center">
+
+<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BrianBett125&bg_color=0d0221&color=00ffcc&line=7b2ff7&point=ffffff&area=true&area_color=7b2ff7&hide_border=true&custom_title=Contributions%20over%20the%20last%2031%20days"/>
+
+</div>
 
 ---
 
-## 📊 GitHub activity
+## 📊 GitHub stats
 
 <div align="center">
 
@@ -139,67 +156,3 @@ Hiring for a Full-Stack, Backend or product engineering role, or have a freelanc
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:7b2ff7,70:00ffcc,100:0d0221&height=110&section=footer&text=Ship.%20Learn.%20Iterate.%20Repeat.&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=68"/>
 
 </div>
-"""Refresh the 'Live from my repositories' block in README.md using the GitHub API.
-Standard library only. Reads GITHUB_TOKEN from the environment (provided by Actions)."""
-import json, os, re, urllib.request
-from datetime import datetime, timezone
-
-USER = os.environ.get("GH_USER", "BrianBett125")
-TOKEN = os.environ.get("GITHUB_TOKEN", "")
-START, END = "<!--RECENT_START-->", "<!--RECENT_END-->"
-
-
-def api(path):
-    req = urllib.request.Request(f"https://api.github.com{path}")
-    req.add_header("Accept", "application/vnd.github+json")
-    if TOKEN:
-        req.add_header("Authorization", f"Bearer {TOKEN}")
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)
-
-
-def ago(iso):
-    d = datetime.now(timezone.utc) - datetime.fromisoformat(iso.replace("Z", "+00:00"))
-    if d.days >= 30:
-        return f"{d.days // 30}mo ago"
-    if d.days >= 1:
-        return f"{d.days}d ago"
-    if d.seconds >= 3600:
-        return f"{d.seconds // 3600}h ago"
-    return "just now"
-
-
-def esc(s):
-    return (s or "").replace("|", "\\|").replace("\n", " ").strip()
-
-
-repos = [r for r in api(f"/users/{USER}/repos?per_page=100&sort=pushed")
-         if not r["fork"] and r["name"].lower() != USER.lower()][:5]
-
-lines = ["**Recently active repositories**", "",
-         "| Repository | Description | Language | ⭐ | Updated |",
-         "|:--|:--|:--|:-:|:--|"]
-for r in repos:
-    lines.append(f"| [{r['name']}]({r['html_url']}) | {esc(r['description']) or '—'} | "
-                 f"{r['language'] or '—'} | {r['stargazers_count']} | {ago(r['pushed_at'])} |")
-
-commits = []
-for e in api(f"/users/{USER}/events/public?per_page=100"):
-    if e["type"] == "PushEvent":
-        repo = e["repo"]["name"]
-        for c in reversed(e["payload"].get("commits", [])):
-            msg = c["message"].splitlines()[0][:80]
-            commits.append(f"- [`{repo.split('/')[-1]}`](https://github.com/{repo}/commit/{c['sha']}) {esc(msg)} · {ago(e['created_at'])}")
-    if len(commits) >= 5:
-        break
-
-if commits:
-    lines += ["", "**Latest commits**", ""] + commits[:5]
-lines += ["", f"<sub>Synced {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC</sub>"]
-
-text = open("README.md", encoding="utf-8").read()
-block = f"{START}\n" + "\n".join(lines) + f"\n{END}"
-new = re.sub(f"{re.escape(START)}.*?{re.escape(END)}", lambda _: block, text, flags=re.S)
-if new != text:
-    open("README.md", "w", encoding="utf-8").write(new)
-    

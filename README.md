@@ -139,3 +139,67 @@ Hiring for a Full-Stack, Backend or product engineering role, or have a freelanc
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:7b2ff7,70:00ffcc,100:0d0221&height=110&section=footer&text=Ship.%20Learn.%20Iterate.%20Repeat.&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=68"/>
 
 </div>
+"""Refresh the 'Live from my repositories' block in README.md using the GitHub API.
+Standard library only. Reads GITHUB_TOKEN from the environment (provided by Actions)."""
+import json, os, re, urllib.request
+from datetime import datetime, timezone
+
+USER = os.environ.get("GH_USER", "BrianBett125")
+TOKEN = os.environ.get("GITHUB_TOKEN", "")
+START, END = "<!--RECENT_START-->", "<!--RECENT_END-->"
+
+
+def api(path):
+    req = urllib.request.Request(f"https://api.github.com{path}")
+    req.add_header("Accept", "application/vnd.github+json")
+    if TOKEN:
+        req.add_header("Authorization", f"Bearer {TOKEN}")
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return json.load(r)
+
+
+def ago(iso):
+    d = datetime.now(timezone.utc) - datetime.fromisoformat(iso.replace("Z", "+00:00"))
+    if d.days >= 30:
+        return f"{d.days // 30}mo ago"
+    if d.days >= 1:
+        return f"{d.days}d ago"
+    if d.seconds >= 3600:
+        return f"{d.seconds // 3600}h ago"
+    return "just now"
+
+
+def esc(s):
+    return (s or "").replace("|", "\\|").replace("\n", " ").strip()
+
+
+repos = [r for r in api(f"/users/{USER}/repos?per_page=100&sort=pushed")
+         if not r["fork"] and r["name"].lower() != USER.lower()][:5]
+
+lines = ["**Recently active repositories**", "",
+         "| Repository | Description | Language | ⭐ | Updated |",
+         "|:--|:--|:--|:-:|:--|"]
+for r in repos:
+    lines.append(f"| [{r['name']}]({r['html_url']}) | {esc(r['description']) or '—'} | "
+                 f"{r['language'] or '—'} | {r['stargazers_count']} | {ago(r['pushed_at'])} |")
+
+commits = []
+for e in api(f"/users/{USER}/events/public?per_page=100"):
+    if e["type"] == "PushEvent":
+        repo = e["repo"]["name"]
+        for c in reversed(e["payload"].get("commits", [])):
+            msg = c["message"].splitlines()[0][:80]
+            commits.append(f"- [`{repo.split('/')[-1]}`](https://github.com/{repo}/commit/{c['sha']}) {esc(msg)} · {ago(e['created_at'])}")
+    if len(commits) >= 5:
+        break
+
+if commits:
+    lines += ["", "**Latest commits**", ""] + commits[:5]
+lines += ["", f"<sub>Synced {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC</sub>"]
+
+text = open("README.md", encoding="utf-8").read()
+block = f"{START}\n" + "\n".join(lines) + f"\n{END}"
+new = re.sub(f"{re.escape(START)}.*?{re.escape(END)}", lambda _: block, text, flags=re.S)
+if new != text:
+    open("README.md", "w", encoding="utf-8").write(new)
+    

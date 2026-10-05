@@ -1,87 +1,109 @@
 <div align="center">
 
-<img width="100%" alt="Brian Bett Kipkoech - Backend-Focused Full-Stack Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:7b2ff7,70:00ffcc,100:0d0221&height=270&section=header&text=Brian%20Bett%20Kipkoech&fontSize=72&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Backend-Focused%20Full-Stack%20Engineer&descSize=28&descAlign=50&descAlignY=58"/>
+<img width="100%" alt="Brian Bett Kipkoech - Backend-Focused Full-Stack Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:7b2ff7,70:00ffcc,100:0d0221&height=270&section=header&text=Brian%20Bett%20Kipkoech&fontSize=86&fontColor=00FFCC&animation=fadeIn"/>
 
 <a href="https://brian-portoflio.vercel.app/">
-  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=00FFCC&center=true&vCenter=true&width=640&height=40&lines=I+build+software+end-to-end;Java+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+Django;React+%C2%B7+Next.js+%C2%B7+PostgreSQL+%C2%B7+Docker;Over+3+years+shipping+real+products"/>
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=680&height=52&lines=Backend-Focused+Full-Stack+Engineer;3%2B+Years+Production+Experience;System+Design+%7C+APIs+%7C+DevOps;Shipping+Reliable+Software+at+Scale"/>
 </a>
 
-**I turn complex requirements into simple, reliable, maintainable software.**
+### I turn complex requirements into simple, reliable, maintainable software.
 
-<a href="https://brian-portoflio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-brian--portoflio.vercel.app-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:brianbett756@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Hire%20me-brianbett756@gmail.com-00ffcc?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-<a href="https://www.linkedin.com/in/brian-bett-kipkoech/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/Yow_Brah"><img alt="X" src="https://img.shields.io/badge/X-@Yow__Brah-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-brian--portoflio.vercel.app-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white)](https://brian-portoflio.vercel.app/)
+[![Email](https://img.shields.io/badge/Hire%20me-brianbett756@gmail.com-00ffcc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:brianbett756@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Bett-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-bett-kipkoech/)
+[![X](https://img.shields.io/badge/X-@Yow__Brah-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Yow_Brah)
 
-<a href="https://github.com/BrianBett125?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/BrianBett125?style=flat-square&label=followers&color=7b2ff7&labelColor=0d0221"/></a>
+[![Followers](https://img.shields.io/github/followers/BrianBett125?style=for-the-badge&color=7b2ff7&labelColor=0d0221)](https://github.com/BrianBett125?tab=followers)
+[![Stars](https://img.shields.io/github/stars/BrianBett125?style=for-the-badge&color=00ffcc&labelColor=0d0221)](https://github.com/BrianBett125?tab=repositories)
 
-<sub><a href="#-about">About</a> · <a href="#-featured-projects">Projects</a> · <a href="#-stack">Stack</a> · <a href="#-work-with-me">Work with me</a> · <a href="#-github-stats">Stats</a> · <a href="#-how-i-work">How I work</a> · <a href="#-contact">Contact</a></sub>
+<details open>
+<summary><b>⚡ Quick navigation</b></summary>
+
+[About](#-about) · [Featured work](#-featured-projects) · [Stack](#-tech-stack) · [Live metrics](#-live-metrics) · [Work with me](#-work-with-me)
+
+</details>
 
 </div>
 
 > [!TIP]
-> **Open to work:** Full-Stack, Backend (Java/Spring Boot, Python/Django) and React/Next.js roles on product-focused teams, plus selected freelance and contract work. Remote-ready, working in EAT (UTC+3). I reply within 24 hours.
+> Open to work: Full-Stack, Backend (Java/Spring Boot, Python/Django), and React/Next.js roles on product-focused teams, with selected freelance and contract opportunities. Remote-ready and working in EAT (UTC+3).
 
 ---
 
 ## 👋 About
 
-I build software **end-to-end**: architecture, APIs, databases and business logic, polished React and Next.js frontends, deployment, and fixing things in production. I like owning the whole lifecycle, from the first requirement to the running service.
+I build software end-to-end: architecture, APIs, databases, business logic, polished React and Next.js frontends, deployment, and production debugging. I like owning the whole lifecycle and turning ambiguity into reliable systems.
 
-| | |
+| Area | Details |
 |:--|:--|
-| **Role** | Backend-focused Full-Stack Engineer · over 3 years |
-| **Now** | Building an ISP billing platform at [Ikonex Systems](https://github.com/IKONEX_SYSTEMS): Spring Boot, PostgreSQL, FreeRADIUS, MikroTik, M-Pesa |
+| **Role** | Backend-focused Full-Stack Engineer · 3+ years |
+| **Currently** | Building an ISP billing platform at [Ikonex Systems](https://github.com/IKONEX_SYSTEMS): Spring Boot, PostgreSQL, FreeRADIUS, MikroTik, M-Pesa |
 | **Strengths** | System design · REST API design · Authentication · Third-party integrations · Production debugging |
 | **Also** | AI quality engineering: speech and language data evaluation for ML pipelines |
-| **Trained at** | ALX Software Engineering · Holberton School |
+| **Training** | ALX Software Engineering · Holberton School |
+
+### What I bring
+
+- System design and architecture decisions grounded in real-world constraints
+- Backend engineering in Java/Spring Boot and Python/Django
+- Clean, maintainable full-stack applications with React and Next.js
+- Database modeling, optimization, and reliability work
+- Deployment, CI/CD, Linux operations, and production support
 
 ---
 
 ## 🚀 Featured projects
 
-### 📡 Internet Billing System &nbsp;·&nbsp; Ikonex Systems &nbsp;·&nbsp; *private client work*
-**An internet billing platform for a Wi-Fi hotspot operator.** I build and test the Spring Boot backend and its integrations: a layered REST API (entity, DTO, repository, service, controller), PostgreSQL, FreeRADIUS authentication wired to MikroTik hotspots, WireGuard-gated device registration and M-Pesa payments. On the quality side I run the UAT plan across 15 modules with bug tracking, and I maintain the user manual and API documentation. The source is private, but I'm happy to walk through the architecture in an interview.
+### 🌐 Portfolio · [Code](https://github.com/BrianBett125/brian-portoflio) · [Live](https://brian-portoflio.vercel.app/)
+**My personal site, built as a real production app.** Responsive dark/light modes, project showcase, MDX blog, validated contact form, and analytics.
+
+<br/>`Next.js 15` `React 19` `TypeScript` `Tailwind` `Framer Motion` `Prisma` `Jest`
+<br/>![Last commit](https://img.shields.io/github/last-commit/BrianBett125/brian-portoflio?style=flat-square&color=7b2ff7&labelColor=0d0221) ![Stars](https://img.shields.io/github/stars/BrianBett125/brian-portoflio?style=flat-square&color=00ffcc&labelColor=0d0221)
+
+### 📡 Internet Billing System · Ikonex Systems · private client work
+**An internet billing platform for a Wi-Fi hotspot operator.** Built around a layered Spring Boot backend with PostgreSQL, FreeRADIUS, MikroTik, WireGuard, and M-Pesa integrations.
+
 <br/>`Java` `Spring Boot` `PostgreSQL` `FreeRADIUS` `MikroTik` `WireGuard` `M-Pesa`
 
-### 🎯 SkillUp &nbsp;·&nbsp; [Code](https://github.com/BrianBett125/skillup) &nbsp;·&nbsp; [Live demo](https://skillup-zeta.vercel.app)
-**A course marketplace that connects learners with instructors.** Learners browse and filter a catalog by keyword, category and skill level, enroll, and track their progress through quizzes and assignments. Instructors publish courses and manage their content. The platform also covers payments with instructor revenue sharing, ratings and reviews, discussion forums, notifications and sales analytics. A full-stack project (separate Backend and Frontend), built as a team with [Njenga Mwangi](https://github.com/willykar).
-<br/><img alt="Last commit" src="https://img.shields.io/github/last-commit/BrianBett125/skillup?style=flat-square&color=7b2ff7&labelColor=0d0221"/> <img alt="Stars" src="https://img.shields.io/github/stars/BrianBett125/skillup?style=flat-square&color=00ffcc&labelColor=0d0221"/> <img alt="Top language" src="https://img.shields.io/github/languages/top/BrianBett125/skillup?style=flat-square&color=7b2ff7&labelColor=0d0221"/>
+### 🎓 SkillUp · [Code](https://github.com/BrianBett125/skillup) · [Live demo](https://skillup-zeta.vercel.app)
+**A course marketplace connecting learners with instructors.** Users browse, filter, enroll, and track progress through quizzes and assignments.
 
-### 🗳️ Polling App &nbsp;·&nbsp; [Code](https://github.com/BrianBett125/Polling-App)
-**Create a poll, share it by link or QR code, and watch votes arrive live.** Supports both signed-in and anonymous voting, with data protected by Supabase Row Level Security. Built on the Next.js App Router, using Server Components for fast data loading and Server Actions for votes, with Tailwind and shadcn/ui for the interface and Vitest for tests.
+<br/>`Next.js` `TypeScript` `PostgreSQL` `Tailwind`
+<br/>![Last commit](https://img.shields.io/github/last-commit/BrianBett125/skillup?style=flat-square&color=7b2ff7&labelColor=0d0221) ![Stars](https://img.shields.io/github/stars/BrianBett125/skillup?style=flat-square&color=00ffcc&labelColor=0d0221)
+
+### 🗳️ Polling App · [Code](https://github.com/BrianBett125/Polling-App)
+**Create a poll, share it by link or QR code, and watch votes arrive live.** Supports signed-in and anonymous voting, protected by Supabase Row Level Security.
+
 <br/>`Next.js` `TypeScript` `Supabase` `Tailwind` `Vitest`
-<br/><img alt="Last commit" src="https://img.shields.io/github/last-commit/BrianBett125/Polling-App?style=flat-square&color=7b2ff7&labelColor=0d0221"/> <img alt="Stars" src="https://img.shields.io/github/stars/BrianBett125/Polling-App?style=flat-square&color=00ffcc&labelColor=0d0221"/>
+<br/>![Last commit](https://img.shields.io/github/last-commit/BrianBett125/Polling-App?style=flat-square&color=7b2ff7&labelColor=0d0221) ![Stars](https://img.shields.io/github/stars/BrianBett125/Polling-App?style=flat-square&color=00ffcc&labelColor=0d0221)
 
-### 📘 Learning Log &nbsp;·&nbsp; [Code](https://github.com/BrianBett125/Learning_Log)
-**A Django web app for tracking what you learn.** Users register and log in, create topics, write dated entries under each topic, and edit or review past entries. Designed as a small, extensible base that could grow into a full learning-management tool.
+### 📘 Learning Log · [Code](https://github.com/BrianBett125/Learning_Log)
+**A Django web app for tracking what you learn.** Users register, create topics, and maintain dated entries under each topic.
+
 <br/>`Python` `Django` `Bootstrap` `SQLite`
-<br/><img alt="Last commit" src="https://img.shields.io/github/last-commit/BrianBett125/Learning_Log?style=flat-square&color=7b2ff7&labelColor=0d0221"/> <img alt="Stars" src="https://img.shields.io/github/stars/BrianBett125/Learning_Log?style=flat-square&color=00ffcc&labelColor=0d0221"/>
+<br/>![Last commit](https://img.shields.io/github/last-commit/BrianBett125/Learning_Log?style=flat-square&color=7b2ff7&labelColor=0d0221)
 
-### 🧑‍💻 Portfolio &nbsp;·&nbsp; [Code](https://github.com/BrianBett125/brian-portoflio) &nbsp;·&nbsp; [Visit](https://brian-portoflio.vercel.app/)
-**My personal site, built as a real production app.** Responsive with dark and light modes, a project showcase filterable by technology, an MDX blog, a validated contact form that sends email, an analytics dashboard, SEO metadata and Jest tests. Ships with Docker support.
-<br/>`Next.js 15` `React 19` `TypeScript` `Tailwind` `Framer Motion` `Prisma` `Jest`
-<br/><img alt="Last commit" src="https://img.shields.io/github/last-commit/BrianBett125/brian-portoflio?style=flat-square&color=7b2ff7&labelColor=0d0221"/> <img alt="Stars" src="https://img.shields.io/github/stars/BrianBett125/brian-portoflio?style=flat-square&color=00ffcc&labelColor=0d0221"/>
+### 🏗️ Nail It · [Code](https://github.com/BrianBett125/Nail_It)
+**Stock-taking for construction sites.** Teams record material deliveries, quantities, units, and dates; entries can be edited or removed as they change.
 
-### 🏗️ Nail It &nbsp;·&nbsp; [Code](https://github.com/BrianBett125/Nail_It)
-**Stock-taking for construction sites.** Teams create a site, then record the materials delivered to it with quantities, units and dates, and can edit or delete entries as things change. Each site keeps its own records, so nothing gets mixed up across projects. Hosted on Vercel with Firebase as the database, built with [Njenga Mwangi](https://github.com/willykar).
 <br/>`JavaScript` `Firebase` `HTML` `CSS`
-<br/><img alt="Last commit" src="https://img.shields.io/github/last-commit/BrianBett125/Nail_It?style=flat-square&color=7b2ff7&labelColor=0d0221"/> <img alt="Stars" src="https://img.shields.io/github/stars/BrianBett125/Nail_It?style=flat-square&color=00ffcc&labelColor=0d0221"/>
+<br/>![Last commit](https://img.shields.io/github/last-commit/BrianBett125/Nail_It?style=flat-square&color=7b2ff7&labelColor=0d0221)
 
-### 🐚 Simple Shell &nbsp;·&nbsp; [Code](https://github.com/BrianBett125/simple_shell)
-**A UNIX command-line shell written from scratch in C.** It reads commands, launches processes and returns results, giving a hands-on grounding in processes, system calls and memory management. A pair project with Jeremy Muthoga from ALX software engineering training.
+### 🐚 Simple Shell · [Code](https://github.com/BrianBett125/simple_shell)
+**A UNIX command-line shell written from scratch in C.** It reads commands, launches processes, and returns results while reinforcing fundamentals in system calls and memory management.
+
 <br/>`C`
-<br/><img alt="Last commit" src="https://img.shields.io/github/last-commit/BrianBett125/simple_shell?style=flat-square&color=7b2ff7&labelColor=0d0221"/> <img alt="Stars" src="https://img.shields.io/github/stars/BrianBett125/simple_shell?style=flat-square&color=00ffcc&labelColor=0d0221"/>
+<br/>![Last commit](https://img.shields.io/github/last-commit/BrianBett125/simple_shell?style=flat-square&color=7b2ff7&labelColor=0d0221)
 
-<sub>The badges under each project are live: they read last commit and stars straight from GitHub.</sub>
+<sub>Last-commit and star badges are live and pull directly from GitHub.</sub>
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech stack
 
 <div align="center">
 
-<img alt="Java, Python, JavaScript, TypeScript, C, React, Next.js, Spring Boot, Django, PostgreSQL, MySQL, Docker, Git, GitHub Actions, Linux, Bash" src="https://skillicons.dev/icons?i=java,python,js,ts,c,react,nextjs,spring,django,postgres,mysql,docker,git,githubactions,linux,bash&perline=8"/>
+[![Skills](https://skillicons.dev/icons?i=java,spring,python,django,js,ts,react,nextjs,postgresql,mysql,firebase,docker,git,github,linux,bash&perline=8)](https://skillicons.dev)
 
 </div>
 
@@ -94,18 +116,30 @@ I build software **end-to-end**: architecture, APIs, databases and business logi
 
 ---
 
-## 📊 GitHub stats
+## 📊 Live metrics
 
 <div align="center">
 
-<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BrianBett125&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d0221&title_color=00ffcc&icon_color=7b2ff7&text_color=c9d1d9"/>
-<img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBett125&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d0221&title_color=00ffcc&text_color=c9d1d9"/>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianBett125&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d0221&title_color=00ffcc&text_color=ffffff&icon_color=7b2ff7)](https://github.com/BrianBett125)
 
-<img width="98%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=BrianBett125&theme=github-dark-blue&hide_border=true&background=0d0221&ring=7b2ff7&fire=ff6b6b&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=8b949e"/>
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBett125&layout=compact&langs_count=10&hide_border=true&theme=github_dark&bg_color=0d0221&title_color=00ffcc&text_color=ffffff)](https://github.com/BrianBett125)
 
-<img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-snake-dark.svg"/>
+[![GitHub streak](https://streak-stats.demolab.com?user=BrianBett125&theme=github-dark-blue&hide_border=true&background=0d0221&ring=7b2ff7&fire=ff6b6b&currStreakLabel=00ffcc)](https://github.com/BrianBett125)
 
 </div>
+
+---
+
+## 🤖 How I work
+
+Engineering first, AI as a force multiplier. I use AI-native tooling to explore approaches, refactor quickly, debug issues, and draft tests and docs faster, but the responsibility for design, review, and final decisions stays with me.
+
+- Readable first: code is read far more than it is written
+- Tested: untested code is a bug you haven't found yet
+- Ship, then iterate: production feedback beats guessing
+- Own the full stack: design, build, containerize, deploy, and support
+
+> Understand the problem → design the system → build it → ship it → learn → make it better.
 
 ---
 
@@ -113,52 +147,24 @@ I build software **end-to-end**: architecture, APIs, databases and business logi
 
 | I can help with | Typical outcome |
 |:--|:--|
-| **Backend APIs and integrations** | Clean REST services in Java/Spring Boot or Python/Django, with authentication and payment (M-Pesa) or third-party integrations |
-| **Full-stack web apps** | A product taken from idea to a deployed React or Next.js app on a Postgres-backed API |
-| **Quality and test documentation** | UAT plans, bug tracking, user manuals and API docs that make releases safer |
+| **Backend APIs and integrations** | Clean REST services in Java/Spring Boot or Python/Django, with authentication and payment/third-party integrations |
+| **Full-stack web apps** | Product from idea to deployed React or Next.js app backed by a Postgres-powered API |
+| **Quality and test documentation** | UAT plans, bug-tracking workflows, API docs, release notes, and runbooks |
 
-Full-time roles or contract work, both welcome. [Email me](mailto:brianbett756@gmail.com) with a short brief and I'll reply within 24 hours.
-
----
-
-## 🤖 How I work
-
-**Engineering first, AI as a force multiplier.** I use AI-native IDEs to explore approaches, refactor, debug and draft tests and docs faster. Design decisions, review and accountability stay with me.
-
-- **Readable first.** Code is read far more than it is written.
-- **Tested.** Untested code is a bug you haven't found yet.
-- **Ship, then iterate.** Feedback from production beats guessing.
-- **Own the full stack.** Design, build, containerise, deploy.
-
-> Understand the problem → design the system → build it → ship it → learn from it → make it better.
-
-<details>
-<summary><b>📚 What I read and watch</b></summary>
-
-<br/>
-
-**Books:** Clean Code · The Pragmatic Programmer · Designing Data-Intensive Applications · System Design Interview · The Lean Startup
-
-**Channels:** Fireship · Theo (t3.gg) · TechWorld with Nana · Traversy Media
-
-**Podcasts:** Syntax FM · The Changelog · Lex Fridman
-
-☕ Coffee, always · 🎵 Lo-fi and classical while coding · 🧩 DSA puzzles · 🦆 I debug by explaining code to a rubber duck (the duck wins)
-
-</details>
+Full-time roles or contract work are both welcome. [Email me](mailto:brianbett756@gmail.com) with a short brief, and I’ll reply within 24 hours.
 
 ---
-
-<div align="center">
 
 ## 📬 Contact
 
-Hiring for a Full-Stack, Backend or product engineering role, or have a freelance project? My inbox is open.
+Hiring for a backend/full-stack/product engineering role, or have a freelance project in mind? My inbox is open.
 
-<a href="mailto:brianbett756@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/brian-bett-kipkoech/"><img alt="Message on LinkedIn" src="https://img.shields.io/badge/Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://brian-portoflio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/See%20my%20portfolio-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+[![Email me](https://img.shields.io/badge/Email%20me%20now-brianbett756%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianbett756@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-bett-kipkoech/)
+[![Portfolio](https://img.shields.io/badge/See%20my%20portfolio-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white)](https://brian-portoflio.vercel.app/)
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:7b2ff7,70:00ffcc,100:0d0221&height=140&section=footer&text=Ship.%20Learn.%20Iterate.%20Repeat.&fontSize=34&fontColor=ffffff&fontAlign=50&fontAlignY=66"/>
+<div align="center">
+
+<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:7b2ff7,70:00ffcc,100:0d0221&height=120&section=footer&text=Ship.%20Learn.%20Iterate.&fontSize=30&fontColor=00ffcc&animation=fadeIn"/>
 
 </div>

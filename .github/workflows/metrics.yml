@@ -28,7 +28,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      # Languages: all-time and recently used
+      # Most-used languages
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -39,13 +39,12 @@ jobs:
           filename: metrics.languages.svg
           config_timezone: Africa/Nairobi
           plugin_languages: yes
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_colors: github
-          plugin_languages_recent_days: 180
-          plugin_languages_recent_load: 400
-          plugin_languages_recent_categories: programming
+          # Optional: skip oversized repos that distort the totals
+          # plugin_languages_skipped: BrianBett125/<repo-name>
 
       # Overview: commits, PRs, issues, repos, followers
       - uses: lowlighter/metrics@latest

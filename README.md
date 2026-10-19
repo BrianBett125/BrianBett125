@@ -8,13 +8,12 @@
 
 ### I build the parts of a product that people only notice when they fail, so I make sure they don't.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-brian--portoflio.vercel.app-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white)](https://brian-portoflio.vercel.app/)
+[![CV](https://img.shields.io/badge/CV-My%20Live%20Portfolio-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white)](https://brian-portoflio.vercel.app/)
 [![Email](https://img.shields.io/badge/Hire%20me-brianbett756@gmail.com-00ffcc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:brianbett756@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Bett-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-bett-kipkoech/)
 [![X](https://img.shields.io/badge/X-@Yow__Brah-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Yow_Brah)
 
 [![Followers](https://img.shields.io/github/followers/BrianBett125?style=flat-square&color=7b2ff7&labelColor=0d0221)](https://github.com/BrianBett125?tab=followers)
-[![Stars](https://img.shields.io/github/stars/BrianBett125?style=flat-square&color=00ffcc&labelColor=0d0221)](https://github.com/BrianBett125?tab=repositories)
 
 <sub><a href="#-about">About</a> · <a href="#-featured-work">Work</a> · <a href="#-ai-assisted-engineering">AI workflow</a> · <a href="#-stack">Stack</a> · <a href="#-live-telemetry">Telemetry</a> · <a href="#-work-with-me">Work with me</a> · <a href="#-beyond-the-terminal">Beyond the terminal</a> · <a href="#-contact">Contact</a></sub>
 
@@ -22,6 +21,8 @@
 
 > [!IMPORTANT]
 > **Open to work:** backend, full-stack and product engineering roles, plus selected contract and freelance work. Remote-ready, working in EAT (UTC+3). I reply within 24 hours.
+>
+> **My work is my CV:** every project below has a live demo or public code, and my [portfolio](https://brian-portoflio.vercel.app/) ([source](https://github.com/BrianBett125/brian-portoflio)) walks through it.
 
 ---
 
@@ -30,6 +31,8 @@
 I'm a software engineer with over 3 years of experience building software from idea to deployment. I care about the real outcome: clean architecture, maintainable code, strong integrations, and systems that stay stable under real usage.
 
 Right now I'm building an internet billing platform at [Ikonex Systems](https://github.com/IKONEX_SYSTEMS) with Spring Boot, PostgreSQL, FreeRADIUS, MikroTik and M-Pesa integrations.
+
+I'd rather show than tell: everything I build is live or open for you to read.
 
 | | |
 |:--|:--|
@@ -207,7 +210,7 @@ Hiring for a backend, full-stack or product engineering role, or have a project 
 
 [![Email](https://img.shields.io/badge/Email%20me-brianbett756%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianbett756@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-bett-kipkoech/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white)](https://brian-portoflio.vercel.app/)
+[![CV](https://img.shields.io/badge/CV-My%20Live%20Portfolio-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white)](https://brian-portoflio.vercel.app/)
 
 <img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:7b2ff7,70:00ffcc,100:0d0221&height=120&section=footer&text=Ship.%20Learn.%20Iterate.&fontSize=30&fontColor=00ffcc&animation=fadeIn"/>
 

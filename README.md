@@ -16,7 +16,7 @@
 [![Followers](https://img.shields.io/github/followers/BrianBett125?style=flat-square&color=7b2ff7&labelColor=0d0221)](https://github.com/BrianBett125?tab=followers)
 [![Stars](https://img.shields.io/github/stars/BrianBett125?style=flat-square&color=00ffcc&labelColor=0d0221)](https://github.com/BrianBett125?tab=repositories)
 
-<sub><a href="#-about">About</a> · <a href="#-featured-work">Work</a> · <a href="#-ai-assisted-engineering">AI workflow</a> · <a href="#-stack">Stack</a> · <a href="#-activity">Activity</a> · <a href="#-work-with-me">Work with me</a> · <a href="#-beyond-the-terminal">Beyond the terminal</a> · <a href="#-contact">Contact</a></sub>
+<sub><a href="#-about">About</a> · <a href="#-featured-work">Work</a> · <a href="#-ai-assisted-engineering">AI workflow</a> · <a href="#-stack">Stack</a> · <a href="#-live-telemetry">Telemetry</a> · <a href="#-work-with-me">Work with me</a> · <a href="#-beyond-the-terminal">Beyond the terminal</a> · <a href="#-contact">Contact</a></sub>
 
 </div>
 
@@ -34,7 +34,7 @@ Right now I'm building an internet billing platform at [Ikonex Systems](https://
 | | |
 |:--|:--|
 | **System design** | API design, service boundaries, scalable structure, maintainable architecture |
-| **Backend** | Java/Spring Boot, Python/Django, REST APIs, authentication, business logic |
+| **Backend** | Java/Spring Boot (my daily driver), Python/Django, REST APIs, authentication, business logic |
 | **Frontend** | React/Next.js, TypeScript, responsive UI, product-focused experience |
 | **Production** | Deployment, debugging, monitoring, reliability, Linux operations |
 | **Quality** | Test thinking, documentation, UAT planning, release confidence |
@@ -110,11 +110,18 @@ I use AI across the whole lifecycle, and I treat it as a force multiplier, never
 
 ---
 
-## 📈 Activity
+## 📈 Live telemetry
+
+<sub>Generated from my GitHub account every 6 hours by a GitHub Action, including private repositories (totals only, no private names).</sub>
 
 <div align="center">
 
-<img width="100%" alt="Daily contribution activity, last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=BrianBett125&bg_color=0d0221&color=00ffcc&line=7b2ff7&point=ffffff&area=true&hide_border=true"/>
+<img width="100%" alt="Contribution calendar, last year" src="https://raw.githubusercontent.com/BrianBett125/BrianBett125/main/metrics.isocalendar.svg"/>
+
+<img width="49%" alt="Most used languages" src="https://raw.githubusercontent.com/BrianBett125/BrianBett125/main/metrics.languages.svg"/>
+<img width="49%" alt="GitHub overview" src="https://raw.githubusercontent.com/BrianBett125/BrianBett125/main/metrics.overview.svg"/>
+
+<img width="98%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=BrianBett125&theme=github-dark-blue&hide_border=true&background=0d0221&ring=7b2ff7&fire=ff6b6b&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=8b949e"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-snake-dark.svg">
@@ -122,10 +129,19 @@ I use AI across the whole lifecycle, and I treat it as a force multiplier, never
   <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/BrianBett125/BrianBett125/output/github-snake-dark.svg">
 </picture>
 
-<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BrianBett125&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d0221&title_color=00ffcc&text_color=ffffff&icon_color=7b2ff7"/>
-<img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBett125&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d0221&title_color=00ffcc&text_color=ffffff"/>
+</div>
 
-<img width="98%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=BrianBett125&theme=github-dark-blue&hide_border=true&background=0d0221&ring=7b2ff7&fire=ff6b6b&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=8b949e"/>
+### 🏆 Achievements
+
+<div align="center">
+
+<a href="https://github.com/BrianBett125?tab=achievements"><img height="110" alt="Pull Shark x3" src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/BrianBett125?tab=achievements"><img height="110" alt="Pair Extraordinaire" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/BrianBett125?tab=achievements"><img height="110" alt="YOLO" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"/></a>
+
+<sub><b>Pull Shark ×3</b> · <b>Pair Extraordinaire</b> · <b>YOLO</b></sub>
 
 </div>
 

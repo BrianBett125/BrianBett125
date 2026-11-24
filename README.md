@@ -74,7 +74,7 @@ I'd rather show than tell: everything I build is live or open for you to read.
 | Project | What it is | Stack |
 |:--|:--|:--|
 | **[Nail It](https://github.com/BrianBett125/Nail_It)** | Stock-taking for construction sites: materials tracked per site, with quantities, units and dates | JavaScript · Firebase |
-| **[Learning Log](https://github.com/BrianBett125/Learning_Log)** | Django app for tracking learning topics and entries over time | Python · Django · SQLite |
+| **[Maarifa](https://github.com/BrianBett125/Maarifa)** | AI-powered learning platform with structured journals, rich-text notes, full-text search, spaced repetition, progress analytics and personalized learning paths | Python · Django · SQLite |
 | **[Simple Shell](https://github.com/BrianBett125/simple_shell)** | UNIX command-line shell written from scratch in C | C |
 
 </details>
